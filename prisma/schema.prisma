@@ -1,0 +1,67 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider        = "prisma-client-js"
+  previewFeatures = ["fullTextSearch"]
+}
+
+datasource db {
+  provider = "mongodb"
+  url      = env("DATABASE_URL")
+}
+
+model Anime {
+  id           String       @id @default(auto()) @map("_id") @db.ObjectId
+  description  String
+  title        String
+  logo         String
+  coverImage   CoverImages? @relation(fields: [coverId], references: [id])
+  coverId      String?      @db.ObjectId
+  genres       String[]
+  poster       String
+  rating       Float
+  episoden     Int
+  trailer      String
+  studio       String
+  status       String
+  year_of_make Int
+  mainChars    Character[]
+  banner String
+  relevant String[]
+  episodes Episode[]
+}
+
+model Episode {
+  id           String       @id @default(auto()) @map("_id") @db.ObjectId
+  src String
+  title String
+
+  anime Anime? @relation(fields: [animeId], references: [id])
+  animeId  String? @db.ObjectId
+}
+
+model Character {
+  id      String @id @default(auto()) @map("_id") @db.ObjectId
+  name    String
+  picture String
+
+  Anime   Anime?  @relation(fields: [animeId], references: [id])
+  animeId String? @db.ObjectId
+}
+
+model CoverImages {
+  id      String  @id @default(auto()) @map("_id") @db.ObjectId
+  mobile  String
+  desktop String
+  Anime   Anime[]
+}
+
+model WatchList {
+  id     String   @id @default(auto()) @map("_id") @db.ObjectId
+  userId String   @unique
+  animes String[]
+}

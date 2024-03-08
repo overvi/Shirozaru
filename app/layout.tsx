@@ -1,8 +1,28 @@
+import Footer from "@/components/shared/Footer/FooterBase";
+import Nav from "@/components/shared/Nav/NavBase";
+import ChakraProvider from "@/providers/ChakraProvider";
+import ColorModeProvider from "@/providers/ColorModeProvider";
+import { ClerkProvider } from "@clerk/nextjs";
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Bangers, Nunito_Sans } from "next/font/google";
 import "./globals.css";
+import Query from "../providers/ReactQuery";
 
-const inter = Inter({ subsets: ["latin"] });
+const nunito = Nunito_Sans({
+  subsets: ["latin"],
+  weight: ["700"],
+  variable: "--font-rubik",
+  display: "swap",
+  adjustFontFallback: false,
+});
+
+const bangers = Bangers({
+  subsets: ["latin"],
+  weight: ["400"],
+  variable: "--font-banger",
+  display: "swap",
+  adjustFontFallback: false,
+});
 
 export const metadata: Metadata = {
   title: "Create Next App",
@@ -15,8 +35,24 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
-      <body className={inter.className}>{children}</body>
-    </html>
+    <ClerkProvider>
+      <html
+        suppressHydrationWarning
+        lang="en"
+        className={[nunito.variable, bangers.variable].join(" ")}
+      >
+        <body>
+          <Query>
+            <ColorModeProvider>
+              <ChakraProvider>
+                <Nav />
+                <main>{children}</main>
+                <Footer />
+              </ChakraProvider>
+            </ColorModeProvider>
+          </Query>
+        </body>
+      </html>
+    </ClerkProvider>
   );
 }

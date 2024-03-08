@@ -1,0 +1,88 @@
+[
+  {
+    "title": "The top 10 hot animes in 2024",
+    "description": "Some of the most popular animes now available in 2024",
+    "cards": [
+      {
+        "title": "Demon Slayer",
+        "description": "Demon Slayer follows the journey of Tanjiro Kamado, a young boy who becomes a demon slayer after his family is slaughtered by demons and his younger sister Nezuko is turned into a demon.",
+        "genres": ["Action", "Adventure", "Fantasy"],
+        "episodes": 26,
+        "rating": 8.6,
+        "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1710326024/demon-poster_h49brd.jpg"
+      },
+      {
+        "title": "My Hero Academia",
+        "description": "My Hero Academia follows the story of Izuku Midoriya, a boy born without superpowers in a world where they are common, as he strives to become a hero.",
+        "genres": ["Action", "Adventure", "Comedy"],
+        "episodes": 104,
+        "rating": 8.4,
+        "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1710307574/posters/hero-poster_zwptqf.webp"
+      },
+      {
+        "title": "Classroom of the Elite",
+        "description": "Classroom of the Elite is set in a prestigious high school where students are trained to become future leaders. The story follows Kiyotaka Ayanokoji and his classmates as they navigate the complexities of the school's social hierarchy and hidden agendas.",
+        "genres": ["Psychological", "Slice of Life", "Drama"],
+        "episodes": 12,
+        "rating": 7.9,
+        "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1710307550/posters/classroom-poster_cgqiab.webp"
+      },
+      {
+        "title": "One Piece: Egghead Arc",
+        "description": "One Piece: Egghead Arc follows the Straw Hat Pirates as they embark on a new adventure filled with mystery, danger, and hilarious antics.",
+        "genres": ["Action", "Adventure", "Comedy"],
+        "episodes": 12,
+        "rating": 8.3,
+        "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1710307602/posters/one-piece-poster_humgff.webp"
+      },
+      {
+        "title": "Solo Leveling",
+        "description": "Solo Leveling follows Sung Jin-Woo, a weak hunter who is thrust into a world of monsters and dungeons. After a near-death experience, he gains unique powers and begins his journey to become the strongest hunter.",
+        "genres": ["Action", "Adventure", "Fantasy"],
+        "episodes": 40,
+        "rating": 9.1,
+        "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1710307535/posters/solo-poster_nwyhwd.jpg"
+      },
+      {
+        "title": "Dandadan",
+        "description": "Dandadan follows the misadventures of a group of eccentric individuals as they navigate the chaos of everyday life in a quirky town.",
+        "genres": ["Comedy", "Slice of Life"],
+        "episodes": 24,
+        "rating": 7.5,
+        "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1710307557/posters/dandadan-poster_d7sqjm.jpg"
+      },
+      {
+        "title": "That Time I Got Reincarnated as a Slime (Season 3)",
+        "description": "That Time I Got Reincarnated as a Slime continues the story of Rimuru Tempest, a former human who was reincarnated as a powerful slime creature in a fantasy world. As Rimuru builds his own nation, he faces new challenges and enemies.",
+        "genres": ["Action", "Adventure", "Fantasy"],
+        "episodes": 24,
+        "rating": 8.7,
+        "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1710307558/posters/That-poster_fsbhmi.jpg"
+      },
+      {
+        "title": "Mushoku Tensei",
+        "description": "Mushoku Tensei follows the story of Rudeus Greyrat, a man who is reincarnated into a fantasy world as a baby. With his past memories intact, he resolves to live a fulfilling life and become the most powerful mage.",
+        "genres": ["Adventure", "Fantasy", "Slice of Life"],
+        "episodes": 23,
+        "rating": 8.2,
+        "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1710307540/posters/mushoku-poster_mk7b4f.webp"
+      },
+      {
+        "title": "Kaiju No. 8",
+        "description": "Kaiju No. 8 is set in a world where giant monsters known as kaiju threaten humanity. The story follows Kafka Hibino, a member of the Defense Force who gains the ability to transform into a kaiju. As Kafka grapples with his newfound power, he must protect humanity from other kaiju threats.",
+        "genres": ["Action", "Sci-Fi", "Supernatural"],
+        "episodes": 20,
+        "rating": 8.5,
+        "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1710307563/posters/kaiju-poster_srbjxh.jpg"
+      },
+      {
+        "title": "Dragon Ball Daima",
+        "description": "Dragon Ball Daima follows the adventures of Goku and his friends as they search for the Dragon Balls, magical orbs that can grant any wish. Along the way, they encounter powerful foes and embark on epic battles to save the world.",
+        "genres": ["Action", "Adventure", "Comedy"],
+        "episodes": 20,
+        "rating": 8.8,
+        "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1710307542/posters/dragon-poster_axva6k.jpg"
+      }
+    ]
+  }
+]

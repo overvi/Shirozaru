@@ -1,0 +1,1383 @@
+[
+  {
+    "title": "Jujutsu Kaisen",
+    "description": "Yuji Itadori, who possesses extraordinary physical strength. His life takes an unexpected turn when he encounters a cursed item and ends up swallowing a cursed object that contains the finger of the demon Ryomen Sukuna. This act binds him to Sukuna, and he finds himself thrust into the world of Curses and Jujutsu Sorcerers.",
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1710212885/logos/jjk-log_oggvqf.svg",
+    "genres": ["Action", "Supernatural", "Fantasy"],
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1711626479/posters/jjk_gkei4z.webp",
+    "rating": 8.7,
+    "episodes": 24,
+    "coverId": "65efc4f6ac8527014866346b",
+
+    "trailer": "https://www.youtube.com/embed/6nqxkG4MBxc",
+    "studio": "MAPPA",
+    "year_of_make": 2020,
+    "status": "completed",
+    "mainChars": [
+      {
+        "name": "Yuji Itaduri ",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407703/chars/itaduri_ppbkb8.jpg"
+      },
+      {
+        "name": "Gojo Saturu",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407705/chars/gojo-poster_a2wzuv.jpg"
+      },
+      {
+        "name": "Fushiguro Megumi",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407702/chars/fushiguro_t1npve.jpg"
+      },
+      {
+        "name": "Sukuna",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407701/chars/sukuna_h2tlsg.jpg"
+      },
+      {
+        "name": "Geto Saguro",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407701/chars/geto_bmcekb.webp"
+      }
+    ]
+  },
+  {
+    "title": "One Piece",
+    "description": "Monkey D. Luffy, a young man who gains the properties of rubber after unintentionally eating a Devil Fruit. With his diverse crew of pirates, named the Straw Hat Pirates, Luffy explores the Grand Line in search of the world’s ultimate treasure known as “One Piece” to become the Pirate King.",
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1710213190/logos/One-Piece-Logo_iywzyd.svg",
+    "genres": ["Action", "Adventure", "Comedy"],
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1710307602/posters/one-piece-poster_humgff.webp",
+    "rating": 9,
+    "episodes": 1000,
+    "coverId": "65efc4f6ac8527014866346c",
+
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710954199/trailer/ONE_PIECE_STAMPEDE_Official_Trailer_zsbpp7.mp4",
+    "studio": "Toei Animation",
+    "year_of_make": 1999,
+    "status": "ongoing",
+    "mainChars": [
+      {
+        "name": "Luffy",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712408057/chars/luffy_imymb0.jpg"
+      },
+      {
+        "name": "Roronoa Zoro",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407853/chars/roronoa_nztykb.jpg"
+      },
+      {
+        "name": "Nami",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712408103/chars/nami_dmlqd2.webp"
+      },
+      {
+        "name": "Sanjai",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407850/chars/sanji_ysxg3f.webp"
+      },
+      {
+        "name": "Shanks",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407842/chars/shanks_pg4vm5.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Solo Leveling",
+    "description": "Set in a world where mysterious portals, known as “Gates,” have emerged, connecting the human world to a realm filled with monsters. To combat these threats, certain individuals have awakened supernatural powers, becoming “Hunters.” The protagonist, Sung Jinwoo, is initially known as the “World’s Weakest Hunter,” but after a near-death experience in a dangerous dungeon, he gains the ability to “level up” his powers, a unique trait that sets him apart from other Hunters.",
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1710314995/logos/solo-logs_g2cgwm.png",
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1710307535/posters/solo-poster_nwyhwd.jpg",
+    "rating": 8.9,
+    "episodes": 180,
+    "coverId": "65efc4f6ac8527014866346e",
+
+    "genres": ["Isekai", "Drama", "Mystery"],
+    "trailer": "https://www.youtube.com/embed/K56ApDTaN_Y",
+    "studio": "N/A",
+    "year_of_make": 2022,
+    "status": "ongoing",
+    "mainChars": [
+      {
+        "name": "Sung Jinwoo",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407711/chars/sung_ql54gq.webp"
+      },
+      {
+        "name": "Cha Hae-in",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407714/chars/cha_jaepvm.jpg"
+      },
+      {
+        "name": "Igris",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407711/chars/igris_q5vlav.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Mashle: Magic and Muscles",
+    "description": "Set in a world where magic is everything, Mash Burnedead is a young man without any magical abilities. To protect his peaceful life with his adoptive father, Mash must become a “Divine Visionary,” a title given to exceptional students from the Easton Magic Academy. Despite having no magic, Mash enrolls in the academy, determined to survive and prove that muscles can beat magic1.",
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1710187862/logos/mashle_pbov6s.svg",
+    "genres": ["Action", "Comedy", "Fantasy"],
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1711664383/posters/u7KEJvDXSGYnzq3BNs3jQwBe1VF_udmipw.jpg",
+    "rating": 8.5,
+    "episodes": 50,
+    "coverId": "65efc4f6ac85270148663470",
+
+    "trailer": "https://www.youtube.com/embed/_ce5_P1Hj5A",
+    "studio": "N/A",
+    "year_of_make": 2022,
+    "status": "ongoing",
+    "mainChars": [
+      {
+        "name": "Mash Burnedead",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1710247509/samples/mashle-mob.webp"
+      },
+      {
+        "name": "Ren Ames",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407718/chars/rayne_gxnbhs.jpg"
+      },
+      {
+        "name": "Dot Barrett",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407672/chars/dot_nymtrb.webp"
+      },
+      {
+        "name": "Lemon Irvine",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407658/chars/lemon_rylwhq.webp"
+      }
+    ]
+  },
+  {
+    "title": "The Apothecary Diaries",
+    "description": "Maomao, a clever and resourceful apothecary’s daughter, finds herself in the imperial court’s inner palace, serving as a low-ranking maid after being sold into servitude. Her extensive knowledge of medicine and poisons becomes an invaluable asset when she begins to solve mysterious occurrences affecting the imperial family.",
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1710187872/logos/apoth-logo_er6pgh.png",
+    "genres": ["Drama", "Mystery", "Historical"],
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1711529021/posters/apothecary.jpg",
+    "rating": 8.3,
+    "episodes": 12,
+    "coverId": "65efc4f6ac85270148663471",
+
+    "trailer": "https://www.youtube.com/embed/_H-RhVidxPo",
+    "studio": "Asahi Production",
+    "year_of_make": 2021,
+    "status": "completed",
+    "mainChars": [
+      {
+        "name": "Maomao",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407849/chars/maomao_i7wf4n.webp"
+      },
+      {
+        "name": "Jinshi",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407841/chars/jinshi_ocwdjz.jpg"
+      },
+      {
+        "name": "Pairin",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407837/chars/pairin_r0r9va.webp"
+      },
+      {
+        "name": "Lihako",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407837/chars/lihaku_gbu5j8.webp"
+      }
+    ]
+  },
+  {
+    "title": "Chainsaw Man",
+    "description": "Denji, is a young man trapped in poverty who works as a Devil Hunter with his canine companion and Chainsaw Devil, Pochita. After a betrayal leads to his death, Denji merges with Pochita and is reborn as a devil-human hybrid, gaining the ability to transform parts of his body into chainsaws. He then joins the Public Safety Devil Hunters to fight against Devils threatening Japan",
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1710214633/logos/chainsaw-man.svg",
+    "genres": ["Action", "Supernatural", "Horror"],
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1711528983/posters/chain_vuqy7m.jpg",
+    "rating": 8.8,
+    "episodes": 24,
+    "coverId": "65efc4f7ac85270148663479",
+
+    "trailer": "https://www.youtube.com/embed/l96zmDlWCBk",
+    "studio": "MAPPA",
+    "year_of_make": 2022,
+    "status": "ongoing",
+    "mainChars": [
+      {
+        "name": "Denji",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1711928649/chars/denji_vp39nm.jpg"
+      },
+      {
+        "name": "Makima",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1711928857/chars/makima_dkcbfq.webp"
+      },
+      {
+        "name": "Himeno",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1711929183/chars/himeno_dipg1r.jpg"
+      },
+      {
+        "name": "Aki",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1711929038/chars/aki_ik2f3u.jpg"
+      },
+      {
+        "name": "Pochita",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1711929120/chars/pochita_ywwbpv.jpg"
+      },
+      {
+        "name": "Kobeni",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1711929232/chars/kobeni_txk4ck.webp"
+      }
+    ]
+  },
+  {
+    "title": "Spy × Family",
+    "description": "“Spy × Family” is set in a fictional world where two rival nations, Westalis and Ostania, are engaged in a cold war. The story revolves around a Westalian spy codenamed “Twilight,” whose mission is to prevent the outbreak of war between the two nations. To do this, he must get close to Donovan Desmond, the leader of the National Unity Party within Ostania. Desmond is a reclusive figure who only appears in public at his son’s prestigious school, Eden Academy.",
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1710187853/logos/spy_llsicm.svg",
+    "genres": ["Action", "Comedy", "Mystery"],
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1711529021/posters/spy.jpg",
+    "rating": 9.2,
+    "episodes": 12,
+    "coverId": "65efc4f8ac8527014866347a",
+
+    "trailer": "https://www.youtube.com/embed/m5TxWbtQ7qU",
+    "studio": "Wit Studio",
+    "year_of_make": 2022,
+    "status": "ongoing",
+    "mainChars": [
+      {
+        "name": "Anya Forger",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712406432/chars/anya_cmtrhh.webp"
+      },
+      {
+        "name": "Loid Forger",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712406393/chars/loid_mez52l.jpg"
+      },
+      {
+        "name": "Yor Forger",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712406392/chars/yor_rdgbhx.webp"
+      }
+    ]
+  },
+  {
+    "title": "Frieren: Beyond Journey's End",
+    "description": "The elven mage Frieren, who was part of a heroic party that defeated the Demon King. Unlike her human companions, Frieren has a much longer lifespan. After their victory, she continues her journey alone, seeking magical knowledge. As time passes, she realizes the depth of her bond with her former comrades and begins to understand the human experience of time and connection.",
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1710187763/logos/frieren-logo_dgftys.webp",
+    "genres": ["Fantasy", "Adventure", "Drama"],
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1711529034/posters/Poster-sousou-no-frieren-1-scaled_bkg9kv.jpg",
+    "rating": 8.6,
+    "episodes": 12,
+    "coverId": "65efc4f9ac8527014866347d",
+
+    "trailer": "https://www.youtube.com/embed/GpZ-Uw0mw_8",
+    "studio": "Madhouse",
+    "year_of_make": 2022,
+    "status": "ongoing",
+    "mainChars": [
+      {
+        "name": "Himmel",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712406390/chars/himmel_oiglmm.jpg"
+      },
+      {
+        "name": "Frieren",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712406367/chars/frieren_osbeu4.jpg"
+      },
+      {
+        "name": "Stark",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712406333/chars/stark_t53spy.webp"
+      }
+    ]
+  },
+  {
+    "title": "My Hero Academia",
+    "description": "My Hero Academia follows the story of Izuku Midoriya, a boy born without superpowers in a world where they are common, as he strives to become a hero.",
+    "genres": ["Action", "Adventure", "Comedy"],
+    "episodes": 104,
+    "rating": 8.4,
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1710307574/posters/hero-poster_zwptqf.webp",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710953351/trailer/My_Hero_Academia_Season_7_-_Official_Trailer_j6zmrl.mp4",
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1712183410/logos/My_Hero_Academia_logo_in_Japan_20150106_p8o3yr.png",
+    "studio": "Bones",
+    "year_of_make": 2016,
+    "status": "ongoing",
+    "mainChars": [
+      {
+        "name": "Izuku Midoriya",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712406305/chars/izuku_rjem7b.webp"
+      },
+      {
+        "name": "Katsuki Bakugo",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712406306/chars/baku_junxmc.webp"
+      },
+      {
+        "name": "ُShoto Todoroki",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712406303/chars/shoto_vddeve.webp"
+      },
+      {
+        "name": "Ochaco Uraraka",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712406298/chars/ochako_bm7hsm.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Classroom of the Elite",
+    "description": "Classroom of the Elite is set in a prestigious high school where students are trained to become future leaders. The story follows Kiyotaka Ayanokoji and his classmates as they navigate the complexities of the school's social hierarchy and hidden agendas.",
+    "genres": ["Psychological", "Slice of Life", "Drama"],
+    "episodes": 12,
+    "rating": 7.9,
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1710307550/posters/classroom-poster_cgqiab.webp",
+    "trailer": "https://www.youtube.com/embed/a84AQbBnZGM",
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1712183439/logos/Classroom_of_the_Elite_logo_jeqnkg.png",
+    "studio": "Lerche",
+    "year_of_make": 2017,
+    "status": "completed",
+    "mainChars": [
+      {
+        "name": "Kyiotaka Ayanokuji",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407840/chars/kiyotaka_pk5gw6.jpg"
+      },
+      {
+        "name": "Arisu Sakayanagi",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712408170/chars/arisu_yaxhiw.webp"
+      },
+      {
+        "name": "Honami Ichinose",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407838/chars/honami_qi7rk0.jpg"
+      },
+      {
+        "name": "Suzune Horikita",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407922/chars/suzune_qdrrjn.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Dandadan",
+    "description": "Dandadan follows the misadventures of a group of eccentric individuals as they navigate the chaos of everyday life in a quirky town.",
+    "genres": ["Comedy", "Slice of Life"],
+    "episodes": 24,
+    "rating": 7.5,
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1710307557/posters/dandadan-poster_d7sqjm.jpg",
+    "trailer": "https://www.youtube.com/embed/q8kdev62-L4",
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1712183408/logos/dandanad-logo_ldthhs.jpg",
+    "studio": "Science Saru",
+    "year_of_make": 2022,
+    "status": "ongoing",
+    "mainChars": [
+      {
+        "name": "Jin Enjoji",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407720/chars/jiji_g5jcv9.jpg"
+      },
+      {
+        "name": "Turbo-Granny",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407723/chars/turbo_elnc8b.jpg"
+      },
+      {
+        "name": "Evil Eye",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407737/chars/okarun_iwcczm.webp"
+      },
+      {
+        "name": "Aira Shiratori",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407737/chars/okarun_iwcczm.webp"
+      }
+    ]
+  },
+  {
+    "title": "Mushoku Tensei",
+    "description": "Mushoku Tensei follows the story of Rudeus Greyrat, a man who is reincarnated into a fantasy world as a baby. With his past memories intact, he resolves to live a fulfilling life and become the most powerful mage.",
+    "genres": ["Adventure", "Fantasy", "Slice of Life"],
+    "episodes": 23,
+    "rating": 8.2,
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1710307540/posters/mushoku-poster_mk7b4f.webp",
+    "trailer": "https://www.youtube.com/embed/k5VxfJpzy1Q",
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1712183518/logos/Mushoku_Tensei_logo_f1ykry.webp",
+    "studio": "Studio Bind",
+    "year_of_make": 2021,
+    "status": "completed",
+    "mainChars": [
+      {
+        "name": "Roxy Migurdia",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407657/chars/roxy_e07wpu.jpg"
+      },
+      {
+        "name": "Sylphiette",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407657/chars/sylphiette_ui09g4.jpg"
+      },
+      {
+        "name": "Rudeus Greyrat",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407657/chars/rudeus_uovck0.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Kaiju No. 8",
+    "description": "Kaiju No. 8 is set in a world where giant monsters known as kaiju threaten humanity. The story follows Kafka Hibino, a member of the Defense Force who gains the ability to transform into a kaiju. As Kafka grapples with his newfound power, he must protect humanity from other kaiju threats.",
+    "genres": ["Action", "Sci-Fi", "Supernatural"],
+    "episodes": 20,
+    "rating": 8.5,
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1710307563/posters/kaiju-poster_srbjxh.jpg",
+    "trailer": "https://www.youtube.com/embed/V0OZWzTAqHg",
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1712183429/logos/kaiju_logo_bikzbt.webp",
+    "studio": "N/A",
+    "year_of_make": 2020,
+    "status": "ongoing",
+    "mainChars": [
+      {
+        "name": "Kafka Hibino",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407779/chars/hibino_vuhykd.webp"
+      },
+      {
+        "name": "Soshiro Hoshina",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407787/chars/soshiro_aay6i4.png"
+      }
+    ]
+  },
+  {
+    "title": "Dragon Ball Daima",
+    "description": "Dragon Ball Daima follows the adventures of Goku and his friends as they search for the Dragon Balls, magical orbs that can grant any wish. Along the way, they encounter powerful foes and embark on epic battles to save the world.",
+    "genres": ["Action", "Adventure", "Comedy"],
+    "episodes": 20,
+    "rating": 8.8,
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1710307542/posters/dragon-poster_axva6k.jpg",
+    "trailer": "https://www.youtube.com/embed/7JRBJ3Ldhsc",
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1712183406/logos/Daima_logo_ixjleu.webp",
+    "studio": "Toei Animation",
+    "year_of_make": 1989,
+    "status": "completed",
+    "mainChars": [
+      {
+        "name": "Goku",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407793/chars/goku_yntryn.jpg"
+      },
+      {
+        "name": "Vegeta",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407782/chars/vegeta_hqbfkb.jpg"
+      },
+      {
+        "name": "Frieza",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407781/chars/frieza_frwask.webp"
+      },
+      {
+        "name": "Gohan",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407778/chars/gohan_vmc5nm.webp"
+      }
+    ]
+  },
+  {
+    "title": "Re:Zero - Starting Life in Another World",
+    "rating": 8,
+    "episodes": 25,
+    "description": "Subaru Natsuki is summoned to another world where he discovers he has the power to rewind time upon death. He must navigate this dangerous world, facing challenges and forging bonds with others to uncover the mysteries surrounding his ability and the world he finds himself in.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710957757/trailer/Re_Zero_Season_3_-_Official_Trailer_dtvwko.mp4",
+    "genres": ["Action", "Adventure", "Mystery"],
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1712183427/logos/1200px-Re_Zero_kara_Hajimeru_Isekai_Seikatsu_logo.svg_axfxtp.png",
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1712189717/posters/re-poster_pvtygu.jpg",
+    "studio": "White Fox",
+    "year_of_make": 2016,
+    "status": "completed",
+    "mainChars": [
+      {
+        "name": "Emilia",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407778/chars/emilia_jrbvac.webp"
+      },
+      {
+        "name": "Rem",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407779/chars/rem_qd2hoj.jpg"
+      },
+      {
+        "name": "Natsuki Subaru",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407777/chars/natsuki_ghspt4.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Sword Art Online",
+    "rating": 7,
+    "episodes": 25,
+    "description": "In the near future, virtual reality gaming takes a dark turn when players become trapped in the game world of Sword Art Online. Kirito, one of the players, must fight his way through various challenges to escape the game and save himself and his friends.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710957486/trailer/Sword_Art_Online_-_Official_Trailer_aangij.mp4",
+    "genres": ["Adventure", "Mystery", "Drama"],
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1712183424/logos/Sword_Art_Online_anime_logo.svg_zharlp.png",
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1712189714/posters/Sword_Art_Online-poster_idubze.jpg",
+    "studio": "A-1 Pictures",
+    "year_of_make": 2012,
+    "status": "completed",
+    "mainChars": [
+      {
+        "name": "Asuna",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407776/chars/asuna_g4cuvv.jpg"
+      },
+      {
+        "name": "Kazuto Kyrigaya",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407764/chars/kirigaya_xox5fs.webp"
+      },
+      {
+        "name": "Yui",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407763/chars/yui_cefzwd.jpg"
+      },
+      {
+        "name": "Eugeo",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407763/chars/eugeo_wwumrr.webp"
+      }
+    ]
+  },
+  {
+    "title": "The Rising of the Shield Hero",
+    "rating": 8,
+    "episodes": 25,
+    "description": "Naofumi Iwatani, a young man summoned to another world, becomes the Shield Hero, tasked with defending the world from waves of calamity. Betrayed and framed for a crime he didn't commit, he must overcome adversity and grow stronger to clear his name and protect the world.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710947164/trailer/The_Rising_of_the_Shield_Hero_Season_3_OFFICIAL_TRAILER_mj4jzc.mp4",
+    "genres": ["Action", "Mystery", "Drama"],
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1712183404/logos/The_Rising_of_the_Shield_Hero_Relive_the_Animation_Logo_gnn30a.png",
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1712189700/posters/shield-hero-poster_k0u2dc.jpg",
+    "studio": "Kinema Citrus",
+    "year_of_make": 2019,
+    "status": "completed",
+    "mainChars": [
+      {
+        "name": "Naofumi Iwatani",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712406296/chars/naofumi_ct5i3x.jpg"
+      },
+      {
+        "name": "Raphtalia",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712406297/chars/raphtalia_esw1sd.jpg"
+      },
+      {
+        "name": "Motoyasu Kitamura",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712406295/chars/motoyasu_yagrei.webp"
+      }
+    ]
+  },
+  {
+    "title": "Log Horizon",
+    "rating": 7,
+    "episodes": 50,
+    "description": "After the release of a popular MMORPG, thousands of players find themselves trapped inside the game world of Elder Tale. Shiroe, along with his friends, must navigate this new reality, forming alliances and solving mysteries to survive and find a way back to the real world.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710947558/trailer/Log_Horizon_Season_3_-_Log_Horizon_Entaku_Houkai_-_Trailer_HD_jxdgpd.mp4",
+    "genres": ["Adventure", "Mystery", "Drama"],
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1712183476/logos/Log_Horizon_logo_ng7kle.png",
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1712189750/posters/log-poster_bxi2d1.jpg",
+    "studio": "Satelight",
+    "year_of_make": 2013,
+    "status": "completed",
+    "mainChars": [
+      {
+        "name": "Shiroe",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407657/chars/shiroue_gsddjr.jpg"
+      },
+      {
+        "name": "Nyanta",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407648/chars/nyanta_xwfgdo.jpg"
+      },
+      {
+        "name": "Lenessia",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407648/chars/lyenssia_d1ngkc.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Konosuba: God's Blessing on This Wonderful World!",
+    "rating": 8,
+    "episodes": 20,
+    "description": "Kazuma Satou, after dying a laughable death, is given the chance to reincarnate in a fantasy world with a goddess companion. Together with his quirky party, he embarks on comedic adventures filled with mishaps and challenges, all while trying to live a comfortable life.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710948028/trailer/KONOSUBA_Season_3_-_Official_Trailer_2_npeprn.mp4",
+    "genres": ["Adventure", "Mystery", "Drama"],
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1712183422/logos/2012_-_KonoSuba-logo_dogir8.webp",
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1712189712/posters/Konosuba-poster_emgkfv.jpg",
+    "studio": "Studio Deen",
+    "year_of_make": 2016,
+    "status": "completed",
+    "mainChars": [
+      {
+        "name": "Kazuma Sato",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407762/chars/kazuma_jcwvek.jpg"
+      },
+      {
+        "name": "َAqua",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407762/chars/aqua_tei3to.jpg"
+      },
+      {
+        "name": "Darkness",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407764/chars/darkness_fh6edj.jpg"
+      }
+    ]
+  },
+  {
+    "title": "That Time I Got Reincarnated as a Slime",
+    "rating": 8,
+    "episodes": 36,
+    "description": "Satoru Mikami, an average office worker, is reincarnated in a fantasy world as a powerful slime monster. With his newfound abilities and allies, he embarks on a journey to build a peaceful nation, encountering various creatures and challenges along the way.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710948110/trailer/That_Time_I_Got_Reincarnated_as_a_Slime_Season_3_-_Official_Trailer_pkubmy.mp4",
+    "genres": ["Adventure", "Mystery", "Drama"],
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1712183402/logos/That_Time_I_Got_Reincarnated_as_a_Slime_logo.svg_tnmucf.png",
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1712189700/posters/slime-poster_frplwg.jpg",
+    "studio": "8-Bit",
+    "year_of_make": 2018,
+    "status": "completed",
+    "mainChars": [
+      {
+        "name": "Rimuru Tempest",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712406289/chars/rimuru_marnxp.jpg"
+      },
+      {
+        "name": "Voldora Tempest",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712406289/chars/veldora_ftssor.jpg"
+      },
+      {
+        "name": "Milim Nava",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712406288/chars/milim_vn6mm1.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Grimgar: Ashes and Illusions",
+    "rating": 7,
+    "episodes": 12,
+    "description": "A group of strangers awaken in the fantasy world of Grimgar with no memory of their past lives. Forced to adapt to their new environment, they join together as a party of adventurers, facing the harsh reality of survival and the challenges of battling monsters.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710946885/trailer/Grimgar_Ashes_and_Illusions_-_Official_Trailer_g53i8z.mp4",
+    "genres": ["Isekai", "Adventure", "Fantasy"],
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1712183456/logos/Grimgar_logo_uyt39c.png",
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1712189749/posters/grimgar-poster_hxmkor.jpg",
+    "studio": "A-1 Pictures",
+    "year_of_make": 2016,
+    "status": "completed",
+    "mainChars": [
+      {
+        "name": "Shihoru",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407649/chars/shihoru_eilh27.jpg"
+      },
+      {
+        "name": "Manato",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407647/chars/manato_ppccar.jpg"
+      },
+      {
+        "name": "Yome",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407646/chars/yume_lbvtmj.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Gate: Thus the JSDF Fought There!",
+    "rating": 7,
+    "episodes": 24,
+    "description": "When a mysterious gate opens in Tokyo, connecting Earth to a fantasy world, the Japanese Self-Defense Force is sent to investigate. As tensions rise between the two worlds, the JSDF must navigate political intrigue and battle against formidable foes to protect their homeland.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710950042/trailer/GATE_Official_Trailer_aitzme.mp4",
+    "genres": ["Isekai", "Action", "Military"],
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1712183400/logos/logo__Gate_jieitai_kanochi_nite__kaku_tatakaeri_zjko29.jpg",
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1712189696/posters/gate-poster_qt61mi.jpg",
+    "studio": "A-1 Pictures",
+    "year_of_make": 2015,
+    "status": "completed",
+    "mainChars": [
+      {
+        "name": "Rory Mercury",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712406287/chars/rury_moislc.jpg"
+      },
+      {
+        "name": "LeiLei",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712406288/chars/leilei_v6v3lz.jpg"
+      },
+      {
+        "name": "Shino Kuribayashi",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712406287/chars/shiro_rt0ady.jpg"
+      },
+      {
+        "name": "Pina Co Lada",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712406290/chars/pina_vdoo4h.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Your Lie in April",
+    "rating": 9,
+    "episodes": 22,
+    "description": "Kousei Arima, a former piano prodigy who lost his ability to hear his own playing after a traumatic event, meets the free-spirited violinist Kaori Miyazono. Through music, they inspire each other to confront their pasts and chase after their dreams, despite the obstacles in their path.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710949793/trailer/Your_lie_in_April_Trailer_mcpmjy.mp4",
+    "genres": ["Drama", "Romance", "Music"],
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1712183437/logos/Shigatsu_wa_Kimi_no_Uso_logo_nya4s7.png",
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1712189724/posters/april-poster_bbtl8u.jpg",
+    "studio": "A-1 Pictures",
+    "year_of_make": 2014,
+    "status": "completed",
+    "mainChars": [
+      {
+        "name": "Kaori",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407833/chars/kaori_pyy5cg.jpg"
+      },
+      {
+        "name": "Tsubaki Sawabe",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407830/chars/tsubaki_il50y6.jpg"
+      },
+      {
+        "name": "Ryota Watari",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407825/chars/ryota_hjcdbd.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Clannad",
+    "rating": 8,
+    "episodes": 46,
+    "description": "Tomoya Okazaki, a delinquent high school student, meets Nagisa Furukawa, a shy girl repeating her final year due to illness. Together, they form deep bonds with their classmates, facing life's challenges and discovering the importance of friendship, family, and love.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710949704/trailer/Clannad_After_Story_Official_Trailer_xv1peh.mp4",
+    "genres": ["Drama", "Romance", "Slice of Life"],
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1712183454/logos/Clannad_Logo_tc0jdn.png",
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1712189741/posters/clanned-poster_slq5z8.jpg",
+    "studio": "Kyoto Animation",
+    "year_of_make": 2007,
+    "status": "completed",
+    "mainChars": [
+      {
+        "name": "Nagisa Furukawa",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407649/chars/nagisa_wtdqpj.jpg"
+      },
+      {
+        "name": "Tamoya Okazaki",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407625/chars/tamayo_cabele.jpg"
+      },
+      {
+        "name": "Kyo Fujibayashi",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407595/chars/kio_ql7fz7.jpg"
+      },
+      {
+        "name": "Fuko Ibuki",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407563/chars/ibuki_zbbt84.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Anohana: The Flower We Saw That Day",
+    "rating": 8,
+    "episodes": 11,
+    "description": "Years after the tragic death of their childhood friend Menma, a group of friends drift apart. When Menma's ghost appears before Jinta, he is tasked with fulfilling her wish, reuniting the group and confronting the unresolved emotions that have haunted them for years.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710948657/trailer/Anohana_The_Movie_The_Flower_We_Saw_That_Day_Official_US_Trailer_2014_-_Anime_Movie_HD_hzyxdn.mp4",
+    "genres": ["Drama", "Supernatural", "Slice of Life"],
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1712183420/logos/Anohana_Logo_fweq11.webp",
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1712189710/posters/Anohana-poster_fsrgls.jpg",
+    "studio": "A-1 Pictures",
+    "year_of_make": 2011,
+    "status": "completed",
+    "mainChars": [
+      {
+        "name": "Miko Honama",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407764/chars/miko_bpdmip.jpg"
+      },
+      {
+        "name": "Naruko Anju",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407763/chars/naruko_iiynrt.jpg"
+      },
+      {
+        "name": "Jinta Yadomi",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407754/chars/jinta_lzn2qp.jpg"
+      },
+      {
+        "name": "Yukitaso",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407754/chars/yukitasu_jqpvfh.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Violet Evergarden",
+    "rating": 9,
+    "episodes": 13,
+    "description": "Violet Evergarden, a former child soldier, begins working as an Auto Memory Doll, transcribing people's thoughts and feelings into letters. Through her encounters with clients and her own journey of self-discovery, she learns the true meaning of love, loss, and the power of words.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710949318/trailer/Violet_Evergarden_the_Movie_Official_Trailer_Netflix_Anime_gj8vwh.mp4",
+    "genres": ["Drama", "Slice of Life", "Fantasy"],
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1712183452/logos/Violetevergarden_logo_r9cuxt.webp",
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1712189739/posters/Violet-poster_hjdfgv.jpg",
+    "studio": "Kyoto Animation",
+    "year_of_make": 2018,
+    "status": "completed",
+    "mainChars": [
+      {
+        "name": "Gilbert Bougainvillea",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407493/chars/gilbert_nointl.jpg"
+      },
+      {
+        "name": "Violet Evergarden",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407427/chars/violet_xnkmr6.jpg"
+      },
+      {
+        "name": "Benedict Blue",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407501/chars/benedict_titrhb.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Death Note",
+    "rating": 9,
+    "episodes": 37,
+    "description": "Light Yagami, a high school student bored with life, discovers a mysterious notebook called the Death Note. With the power to kill anyone whose name he writes in it, Light sets out to cleanse the world of criminals and become the god of a new utopia, facing off against the enigmatic detective L.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710956896/trailer/Death_Note_OFFICIAL_TRAILER_taywci.mp4",
+    "genres": ["Mystery", "Psychological", "Thriller"],
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1712183418/logos/Death_Note_logo__black_background_ck04dt.png",
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1712189709/posters/Death_Note-poster_db9prx.jpg",
+    "studio": "Madhouse",
+    "year_of_make": 2006,
+    "status": "completed",
+    "mainChars": [
+      {
+        "name": "Light Yagami",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712472777/light_evbgad.jpg"
+      },
+      {
+        "name": "L",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407746/chars/l_u0hdjr.jpg"
+      },
+      {
+        "name": "Ryuk",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407745/chars/Ryuk_h0rqfu.jpg"
+      },
+      {
+        "name": "Near",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407745/chars/Near_ccc7zy.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Attack on Titan",
+    "rating": 9,
+    "episodes": 75,
+    "description": "In a world where humanity is on the brink of extinction due to giant humanoid creatures known as Titans, Eren Yeager and his friends join the military to fight back. As they uncover the mysteries of the Titans and their own history, they must confront the harsh realities of war and sacrifice.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710952520/trailer/Attack_on_Titan_Season_4_Final_Season_Part_4_-_Official_Trailer_2_bn3pwc.mp4",
+    "genres": ["Action", "Drama", "Fantasy"],
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1712183398/logos/Attack_on_Titan_logo.svg_dvcpgu.png",
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1712189695/posters/aot-poster_kbqari.jpg",
+    "studio": "Wit Studio",
+    "year_of_make": 2013,
+    "status": "ongoing",
+    "mainChars": [
+      {
+        "name": "Eren Yeager",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712406284/chars/eren_hjcmdn.webp"
+      },
+      {
+        "name": "Mikasa Ackerman",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712406318/chars/mikasa_hgef1f.jpg"
+      },
+      {
+        "name": "Armin Ackerman",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712406281/chars/armin_aorv94.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Nanatsu no Taizai (The Seven Deadly Sins)",
+    "rating": 7,
+    "episodes": 95,
+    "description": "The Seven Deadly Sins, a group of legendary knights, are disbanded after being accused of plotting to overthrow the kingdom. Years later, Princess Elizabeth seeks their help to save the kingdom from tyrannical rule, embarking on a quest to reunite the Sins and restore peace.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710954842/trailer/The_Seven_Deadly_Sins_Four_Knights_of_the_Apocalypse_-_Official_Main_Trailer_2_h1v6aj.mp4",
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1712183451/logos/Seven_Deadly_Sins_logo_manga_fr_bwkxqc.png",
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1712189738/posters/sins-poster_g4devy.jpg",
+    "studio": "A-1 Pictures",
+    "year_of_make": 2014,
+    "status": "completed",
+    "mainChars": [
+      {
+        "name": "Gowther",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407432/chars/Gowther__Cursed_by_Light_uepjtd.webp"
+      },
+      {
+        "name": "Ban",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407426/chars/ban_vcrctt.jpg"
+      },
+      {
+        "name": "Merlin",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407436/chars/merlin_tuyoqg.webp"
+      },
+      {
+        "name": "Diane",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407426/chars/diani_nujyme.webp"
+      }
+    ]
+  },
+  {
+    "title": "Hyouka",
+    "rating": 8,
+    "episodes": 22,
+    "description": "Oreki Houtarou, a high school student who conserves his energy for only the essential tasks, is drawn into the world of mysteries when he joins the Classic Literature Club. Alongside his curious classmates, he unravels enigmatic puzzles and uncovers the secrets hidden within their school.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710957032/trailer/Hyouka_Part_1_-_Trailer_dvdhcw.mp4",
+    "genres": ["Mystery", "Slice of Life", "School"],
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1712183435/logos/2560px-Hyouka_logo.svg_awmkkg.png",
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1712189722/posters/Hyouka-poster_zk4szp.jpg",
+    "studio": "Kyoto Animation",
+    "year_of_make": 2012,
+    "status": "completed",
+    "mainChars": [
+      {
+        "name": "Eru Chitanda",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407824/chars/eru_odzuui.webp"
+      },
+      {
+        "name": "Hotaro Oreki",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407824/chars/houtarou_pbepmd.webp"
+      },
+      {
+        "name": "Mayaka Ibarra",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407822/chars/mayaka_lmjoqu.webp"
+      }
+    ]
+  },
+  {
+    "title": "Toradora!",
+    "rating": 8,
+    "episodes": 25,
+    "description": "Ryuuji Takasu, a gentle high school student with a menacing face, forms an unlikely alliance with the feisty Taiga Aisaka. As they navigate the complexities of high school life and their growing feelings for each other, they discover the true meaning of love and friendship.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710951698/trailer/Toradora_-_Official_English_Trailer_mfrgtc.mp4",
+    "genres": ["Drama", "Romance", "Comedy"],
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1712183448/logos/Toradora-Logo-Vector.svg_iowy0s.png",
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1712189735/posters/taradora-poster_iwznmz.jpg",
+    "studio": "J.C.Staff",
+    "year_of_make": 2008,
+    "status": "completed",
+    "mainChars": [
+      {
+        "name": "Taiga Aisaga",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407424/chars/taiga_tdsu2s.jpg"
+      },
+      {
+        "name": "Ryiko Takasu",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407416/chars/riuji_akn3eb.jpg"
+      },
+      {
+        "name": "Minoro Koshieda",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407414/chars/minori_nyaagp.jpg"
+      },
+      {
+        "name": "Amy Kawashima",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407414/chars/ami_nvlw9z.webp"
+      }
+    ]
+  },
+  {
+    "title": "One Punch Man",
+    "rating": 8,
+    "episodes": 24,
+    "description": "Saitama, a seemingly average man, becomes a hero for fun after training so hard that he loses all his hair. Despite his overwhelming strength, he struggles with the mundanity of being an unbeatable hero, longing for a worthy opponent to challenge him and bring excitement back into his life.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710952682/trailer/One_Punch_Man_Season_3_-_Official_Trailer_English_Sub_ywtggv.mp4",
+    "genres": ["Action", "Comedy", "Superhero"],
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1712183447/logos/One_Punch_Man_logo_ttdg8l.png",
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1712189733/posters/One_Punch_Man-poster_qdkmwo.jpg",
+    "studio": "Madhouse",
+    "year_of_make": 2015,
+    "status": "completed",
+    "mainChars": [
+      {
+        "name": "Saitama",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407427/chars/saitama_j4k9s4.jpg"
+      },
+      {
+        "name": "Fubuki",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407424/chars/fubuki_slgde3.jpg"
+      },
+      {
+        "name": "Genos",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407426/chars/genos_vxwvor.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Magi: The Labyrinth of Magic",
+    "rating": 8,
+    "episodes": 50,
+    "description": "In \"Magi: The Labyrinth of Magic,\" young adventurers Aladdin, Alibaba, and Morgiana traverse a fantastical world filled with magic, dungeons, and political intrigue. As they uncover the mysteries of their destinies and the true nature of the world's magic, they form powerful alliances and confront formidable enemies. With each encounter, they learn valuable lessons about friendship, loyalty, and the importance of fighting for what they believe in.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710954756/trailer/Magi_The_Labyrinth_of_Magic_-_Official_Trailer_tfpoye.mp4",
+    "genres": ["Adventure", "Fantasy", "Action"],
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1712183416/logos/magi-logo_dip00l.webp",
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1712189706/posters/Magi-poster_ldtkrg.jpg",
+    "studio": "A-1 Pictures",
+    "year_of_make": 2012,
+    "status": "completed",
+    "mainChars": [
+      {
+        "name": "Sinbad",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407744/chars/sinbad_ynvsaz.webp"
+      },
+      {
+        "name": "Alaadin",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407744/chars/alaadin_efp7qt.webp"
+      },
+      {
+        "name": "Alibaba",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407744/chars/alibaba_ct2oli.webp"
+      }
+    ]
+  },
+  {
+    "title": "Ghost Hunt",
+    "rating": 7,
+    "episodes": 25,
+    "description": "\"Ghost Hunt\" follows the adventures of Mai Taniyama, a high school student who becomes involved with a paranormal investigation team led by the mysterious Kazuya Shibuya. Together, they explore haunted locations, encountering malevolent spirits and solving supernatural mysteries. As Mai delves deeper into the world of the occult, she discovers her own latent psychic abilities and confronts the darkness lurking within the human soul.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710954719/trailer/Ghost_Hunt_-_Official_Trailer_oz0qlf.mp4",
+    "genres": ["Mystery", "Horror", "Supernatural"],
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1712183414/logos/ghost-logo_b8ckbo.webp",
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1712189705/posters/Ghost_Hunt-poster_c6blx5.jpg",
+    "studio": "J.C.Staff",
+    "year_of_make": 2006,
+    "status": "completed",
+    "mainChars": [
+      {
+        "name": "Mai Tanyiama",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712406673/chars/mai_qgsqck.jpg"
+      },
+      {
+        "name": "Kazuya Shibuya",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712406638/chars/shibuya_oikf0p.jpg"
+      },
+      {
+        "name": "Masako Hera",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712406604/chars/masaku_idbxoc.jpg"
+      }
+    ]
+  },
+  {
+    "title": "The Promised Neverland",
+    "rating": 8,
+    "episodes": 22,
+    "genres": ["Mystery", "Psychological", "Thriller"],
+    "description": "Emma, Norman, and Ray live peaceful lives in an orphanage run by a kind caretaker, unaware of the dark secret lurking beneath their idyllic existence. When they discover the horrifying truth about their world, they must plot their escape while evading the sinister forces that seek to control them.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710955944/trailer/The_Promised_Neverland_Trailer_1_k4qh4k.mp4",
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1712183396/logos/The-promised-neverland-logo.svg_orpblr.png",
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1712189689/posters/promised-poste_upoj5e.jpg",
+    "studio": "CloverWorks",
+    "year_of_make": 2019,
+    "status": "completed",
+    "mainChars": [
+      {
+        "name": "Emma",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712406281/chars/emma_ox3equ.jpg"
+      },
+      {
+        "name": "Norman",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712477952/chars/norman_b7q3vh.jpg"
+      },
+      {
+        "name": "Ray",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712406281/chars/ray_c76ipc.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Given",
+    "rating": 8,
+    "episodes": 11,
+    "genres": ["Drama", "Music", "Romance"],
+    "description": "Given follows the emotional journey of four high school students brought together by their love for music. As they navigate the complexities of adolescence and personal relationships, they find solace, healing, and self-discovery through their shared passion for creating music. Through moments of joy, heartache, and growth, Given explores themes of love, loss, and the transformative power of artistic expression.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710950417/trailer/Given_The_Movie_OFFICIAL_TRAILER_himgdc.mp4",
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1712183394/logos/Given_logo_isobaf.png",
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1712189687/posters/Given-poster_x5m2sf.jpg",
+    "studio": "Lerche",
+    "year_of_make": 2019,
+    "status": "completed",
+    "mainChars": [
+      {
+        "name": "Ritsuka Uenoyama",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712406277/chars/ritsuka-o_f4ghh6.webp"
+      },
+      {
+        "name": "Akiko Kaji",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712406277/chars/akiko_ojmsc5.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Fullmetal Alchemist: Brotherhood",
+    "rating": 9,
+    "episodes": 64,
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "description": "In Fullmetal Alchemist: Brotherhood, brothers Edward and Alphonse Elric embark on a quest to restore their bodies after a failed alchemical experiment leaves Edward missing limbs and Alphonse's soul bound to a suit of armor. Their journey takes them through a world where alchemy is both a science and a mystical art, as they uncover dark conspiracies and confront the consequences of their past actions. Fueled by determination and guided by their unwavering bond, the Elric brothers strive to uncover the secrets of the Philosopher's Stone and find redemption amidst the chaos of war and betrayal.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710953015/trailer/Fullmetal_Alchemist_Brotherhood_Trailer_-_English_Dub_gswwhb.mp4",
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1712183412/logos/Fullmetal_Alchemist_Brotherhood_logo.svg_bpmpyp.png",
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1712189702/posters/Fullmeta_Brotherhood-poster_in7im2.jpg",
+    "studio": "Bones",
+    "year_of_make": 2009,
+    "status": "completed",
+    "mainChars": [
+      {
+        "name": "Edward Elric",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712406582/chars/edvard_yfuqxk.jpg"
+      },
+      {
+        "name": "Roy Mustang",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712406535/chars/duy_ge3q7g.jpg"
+      },
+      {
+        "name": "Winry Rockbell",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712406498/chars/winry_e5klxr.jpg"
+      },
+      {
+        "name": "King Bradley",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712406475/chars/king_mfakdm.webp"
+      }
+    ]
+  },
+  {
+    "title": "Erased",
+    "rating": 9,
+    "episodes": 12,
+    "genres": ["Mystery", "Psychological", "Supernatural"],
+    "description": "Edward and Alphonse Elric, brothers skilled in the art of alchemy, seek the Philosopher's Stone to restore their bodies after a failed alchemical experiment. Their journey leads them to uncover dark secrets, confront their past mistakes, and ultimately question the true nature of alchemy.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710955994/trailer/Erased_Volume_1_-_Official_Trailer_sjxkvp.mp4",
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1712183392/logos/Boku_Dake_ga_Inai_Machi_logo_i0rhs3.png",
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1712189686/posters/Erased-poster_ti7ni4.jpg",
+    "studio": "A-1 Pictures",
+    "year_of_make": 2016,
+    "status": "completed",
+    "mainChars": [
+      {
+        "name": "Saturo Fujinoma",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712406277/chars/saturu_tmaak1.jpg"
+      },
+      {
+        "name": "Gaku Yashiro",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712406276/chars/gaku_twieya.webp"
+      },
+      {
+        "name": "Kayo Hinazuki",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712406273/chars/kayo_l29mhf.avif"
+      }
+    ]
+  },
+  {
+    "title": "Rascal Does Not Dream of Bunny Girl Senpai",
+    "rating": 8,
+    "episodes": 13,
+    "genres": ["Comedy", "Drama", "Romance"],
+    "description": "Sakuta Azusagawa encounters Mai Sakurajima, a former child actress who inexplicably appears in a bunny girl costume and seems invisible to everyone else. As Sakuta investigates this phenomenon, he discovers that Mai is suffering from a mysterious affliction known as \"Adolescent Syndrome,\" which manifests as supernatural phenomena related to the struggles of adolescence. Through their unique bond and the challenges they face together, Sakuta and Mai navigate the complexities of youth and relationships, finding solace and understanding in each other's company.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710950665/trailer/Rascal_Does_Not_Dream_of_Bunny_Girl_Senpai_Trailer_vkb7tg.mp4",
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1712183379/logos/Bunny_Girl_Senpai_Japansese_Logo_no5kuy.webp",
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1712189644/posters/senpai-poster_dpiiu2.jpg",
+    "studio": "CloverWorks",
+    "year_of_make": 2018,
+    "status": "completed",
+    "mainChars": [
+      {
+        "name": "Sakuta Azusagawa",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712406274/chars/sakuta_tgfzzt.jpg"
+      },
+      {
+        "name": "Rio Futaba",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712406285/chars/rio_qsq22z.png"
+      },
+      {
+        "name": "Shoko Makinohara",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712406275/chars/shoko_xaq6bd.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Naruto",
+    "rating": 8,
+    "episodes": 720,
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "description": "In the world of Naruto, a young ninja named Naruto Uzumaki embarks on a journey to become the greatest ninja and earn the title of Hokage, the leader of his village. Along the way, Naruto faces numerous trials and battles against powerful adversaries while forging deep bonds with his friends and allies. Fueled by determination and a desire to protect those he cares about, Naruto's adventures lead him to uncover the secrets of his past and ultimately fulfill his destiny as a hero.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710952641/trailer/Official_English_Trailer_Naruto_Set_1_VIZ_aaeph5.mp4",
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1712183433/logos/Naruto_logo.svg_elzhaf.png",
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1712189720/posters/naruto-poster_qmqsb8.jpg",
+    "studio": "Studio Pierrot",
+    "year_of_make": 2002,
+    "status": "completed",
+    "mainChars": [
+      {
+        "name": "Sasuke Uchiha",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407795/chars/sasuke_vz5pkw.jpg"
+      },
+      {
+        "name": "Naruto Uzumaki",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407809/chars/naruto_tzxwpw.jpg"
+      },
+      {
+        "name": "Sakura Haruno",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407794/chars/sakura_crcelx.jpg"
+      },
+      {
+        "name": "Kakashi Hatake",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407795/chars/kakashi_gthcfl.webp"
+      }
+    ]
+  },
+  {
+    "title": "Dragon Ball Z",
+    "rating": 8,
+    "episodes": 291,
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "description": "Dragon Ball Z follows the adventures of Goku and his friends as they defend Earth from powerful villains and embark on epic quests to protect the universe. With the ability to harness energy known as \"ki\" and transform into mighty Super Saiyans, Goku and his allies face increasingly formidable foes, including the tyrannical Frieza, the unstoppable Cell, and the sinister Majin Buu. Through intense battles and training, they push the limits of their strength and unlock new levels of power, embodying the spirit of perseverance and heroism in their quest for peace.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710950978/trailer/Dragon_Ball_DAIMA_Teaser_Trailer_Fall_2024_acdpgi.mp4",
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1712183432/logos/Dragon_Ball_Z_Logo_C_u3rqag.png",
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1712189718/posters/Dragon_Ball_Z-poster_w0dkg5.jpg",
+    "studio": "Toei Animation",
+    "year_of_make": 1989,
+    "status": "completed",
+    "mainChars": [
+      {
+        "name": "Goku",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407793/chars/goku_yntryn.jpg"
+      },
+      {
+        "name": "Vegeta",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407782/chars/vegeta_hqbfkb.jpg"
+      },
+      {
+        "name": "Frieza",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407781/chars/frieza_frwask.webp"
+      },
+      {
+        "name": "Gohan",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407778/chars/gohan_vmc5nm.webp"
+      }
+    ]
+  },
+  {
+    "title": "Gosick",
+    "rating": 8,
+    "episodes": 24,
+    "genres": ["Drama", "Mystery", "Romance"],
+    "description": "Ritsuka Uenoyama, a talented guitarist, finds himself drawn to Mafuyu Sato, a quiet boy with a troubled past. Through their shared love of music, they form a bond that transcends words, healing each other's wounds and discovering the transformative power of love and creativity.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710956394/trailer/Gosick_Fanmade_Trailer_j2qvjl.mp4",
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1712183445/logos/Gosick_logo_fpcylw.png",
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1712189730/posters/Gosick-poste_ryndxv.jpg",
+    "studio": "Bones",
+    "year_of_make": 2011,
+    "status": "completed",
+    "mainChars": [
+      {
+        "name": "Brian Roscoe",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407416/chars/brian_jjabfg.png"
+      },
+      {
+        "name": "Greville",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407387/chars/grevill_sgkgmo.webp"
+      },
+      {
+        "name": "April Bradley",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407386/chars/avril_lerayk.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Demon Slayer: Kimetsu no Yaiba",
+    "rating": 9,
+    "episodes": 26,
+    "genres": ["Action", "Demons", "Historical"],
+    "description": "In Demon Slayer: Kimetsu no Yaiba, Tanjiro Kamado embarks on a perilous journey to avenge his family and cure his sister, Nezuko, who has been transformed into a demon. Armed with his unwavering determination and the teachings of the Demon Slayer Corps, Tanjiro battles terrifying demons while seeking a way to restore Nezuko's humanity. Alongside his companions, he confronts his own demons and strives to protect humanity from the dark forces threatening to engulf the world.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710950603/trailer/Demon_Slayer_Kimetsu_no_Yaiba_Hashira_Training_Arc_OFFICIAL_TRAILER_uqjblb.mp4",
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1712183378/logos/Psycho-Pass_logo.svg_ccg2xu.png",
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1712189585/posters/demon-poster_qyojlt.webp",
+    "studio": "ufotable",
+    "year_of_make": 2019,
+    "status": "completed",
+    "mainChars": [
+      {
+        "name": "Inosuke Hashibira",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407728/chars/inuske_quality_ltqe58.jpg"
+      },
+      {
+        "name": "Nezuko Kamado",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407729/chars/nezuku_qomyv8.jpg"
+      },
+      {
+        "name": "Tanjiro Kamado",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407740/chars/tanjiro_i14gcg.webp"
+      },
+      {
+        "name": "Giyu Tomioka",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407731/chars/giyu_qnbege.jpg"
+      },
+      {
+        "name": "Kyojuro Rengoku",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407729/chars/kiujuro_zfh4m0.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Fate/Grand Order: Absolute Demonic Front - Babylonia",
+    "rating": 8,
+    "episodes": 21,
+    "genres": ["Action", "Fantasy", "Magic"],
+    "description": "In Fate/Grand Order, players assume the role of a Master tasked with traveling through time to save humanity from impending doom. Accompanied by Heroic Spirits summoned from various historical eras and mythologies, players embark on epic quests to restore the fabric of time and prevent the extinction of mankind. With strategic gameplay, captivating storytelling, and stunning visuals, Fate/Grand Order offers an immersive experience where players must navigate through complex battles and make crucial decisions to alter the course of history.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710954396/trailer/Fate_Grand_Order_Absolute_Demonic_Front_Babylonia_Trailer_1_hqoqyt.mp4",
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1712183443/logos/Fate_Grand_Order_logo_p0ivpk.png",
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1712189729/posters/Fate-Grand-Order-poster_ln0tmt.jpg",
+    "studio": "CloverWorks",
+    "year_of_make": 2019,
+    "status": "completed",
+    "mainChars": [
+      {
+        "name": "Risuka Fujimaru",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407388/chars/ritsuka_x47ley.jpg"
+      },
+      {
+        "name": "Mash Kyrielight",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407388/chars/mash_kotfal.webp"
+      },
+      {
+        "name": "Romani Archaman",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407387/chars/romani_ek4gek.webp"
+      }
+    ]
+  },
+  {
+    "title": "Psycho-Pass",
+    "rating": 9,
+    "episodes": 44,
+    "genres": ["Action", "Psychological", "Sci-Fi"],
+    "description": "In Psycho-Pass, set in a dystopian future, society is governed by the Sibyl System, which can detect an individual's mental state and propensity for crime using a device called the Psycho-Pass. Akane Tsunemori, a young inspector, navigates the complexities of enforcing justice in a world where morality is determined by a computer algorithm, confronting ethical dilemmas and questioning the nature of justice itself. As she delves deeper into the mysteries surrounding the Sibyl System and the true nature of humanity, Akane must grapple with the consequences of her actions and the darkness lurking within society.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710956354/trailer/PSYCHO-PASS_Providence_Trailer_1_2023_bcd2qr.mp4",
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1712183377/logos/My_Hero_Academia_logo_ta2tc6.png",
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1712189583/posters/Psycho-Pass-poster_iadlwc.jpg",
+    "studio": "Production I.G",
+    "year_of_make": 2012,
+    "status": "completed",
+    "mainChars": [
+      {
+        "name": "Shougo Makishima",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712406273/chars/shougo_urnufl.jpg"
+      },
+      {
+        "name": "Shinya Kogami",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712406272/chars/shinya_gwcgit.webp"
+      },
+      {
+        "name": "Nobo",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712406275/chars/nobo_yh5ddl.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Terror in Resonance",
+    "rating": 8,
+    "episodes": 11,
+    "genres": ["Mystery", "Psychological", "Thriller"],
+    "description": "In Terror in Resonance, two enigmatic teenagers known only as Nine and Twelve orchestrate a series of terrorist attacks on Tokyo, leaving cryptic clues in their wake. As the authorities struggle to apprehend them, a game of cat and mouse ensues between the terrorists and a determined detective named Shibazaki. Amidst the chaos and intrigue, secrets from the past are unearthed, leading to a dramatic showdown that challenges the notions of justice, morality, and the power of redemption.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710954630/trailer/Terror_In_Resonance_-_Official_Trailer_vusv14.mp4",
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1712183441/logos/Terror_in_Resonance_logo_fr_k5awbh.png",
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1712189728/posters/terror-poster_zxno83.jpg",
+    "studio": "MAPPA",
+    "year_of_make": 2014,
+    "status": "completed",
+    "mainChars": [
+      {
+        "name": "Twelve",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407385/chars/twelve_oh8k73.webp"
+      },
+      {
+        "name": "Nine",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407386/chars/nine_dbdu3r.webp"
+      },
+      {
+        "name": "Hamura",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712407386/chars/hamura_ismu3f.jpg.."
+      }
+    ]
+  },
+  {
+    "title": "My Hero Academia",
+    "rating": 8,
+    "episodes": 113,
+    "genres": ["Action", "Comedy", "School"],
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710953351/trailer/My_Hero_Academia_Season_7_-_Official_Trailer_j6zmrl.mp4",
+    "description": "In a world where almost everyone has superpowers known as 'Quirks,' Izuku Midoriya dreams of becoming a Hero despite being born without one. After a chance encounter with the greatest Hero of all, All Might, Izuku inherits his Quirk and gains the opportunity to attend U.A. High School, a prestigious academy for aspiring Heroes. Alongside his classmates, Izuku learns to harness his newfound powers and navigate the challenges of heroism while facing villains and other threats to society. With determination, courage, and the support of his friends, Izuku embarks on a journey to become the greatest Hero and protect the world from evil.",
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1712183377/logos/My_Hero_Academia_logo_ta2tc6.png",
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1712189572/posters/My_Hero_Academia-poster_wexwr3.jpg",
+    "studio": "Bones",
+    "year_of_make": 2016,
+    "status": "ongoing",
+    "mainChars": [
+      {
+        "name": "Izuku Midoriya",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712406305/chars/izuku_rjem7b.webp"
+      },
+      {
+        "name": "Katsuki Bakugo",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712406306/chars/baku_junxmc.webp"
+      },
+      {
+        "name": "ُShoto Todoroki",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712406303/chars/shoto_vddeve.webp"
+      },
+      {
+        "name": "Ochaco Uraraka",
+        "picture": "https://res.cloudinary.com/duglkyccw/image/upload/v1712406298/chars/ochako_bm7hsm.jpg"
+      }
+    ]
+  }
+]

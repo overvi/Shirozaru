@@ -1,0 +1,321 @@
+{
+  "Genre": [
+    {
+      "title": "Isekai",
+      "items": [
+        {
+          "title": "Re:Zero - Starting Life in Another World",
+          "image": "re_zero.jpg",
+          "rating": 8,
+          "episodes": 25,
+          "description": "Subaru Natsuki is summoned to another world where he discovers he has the power to rewind time upon death. He must navigate this dangerous world, facing challenges and forging bonds with others to uncover the mysteries surrounding his ability and the world he finds himself in."
+        },
+        {
+          "title": "Sword Art Online",
+          "image": "sword_art_online.jpg",
+          "rating": 7,
+          "episodes": 25,
+          "description": "In the near future, virtual reality gaming takes a dark turn when players become trapped in the game world of Sword Art Online. Kirito, one of the players, must fight his way through various challenges to escape the game and save himself and his friends."
+        },
+
+        {
+          "title": "The Rising of the Shield Hero",
+          "image": "shield_hero.jpg",
+          "rating": 8,
+          "episodes": 25,
+          "description": "Naofumi Iwatani, a young man summoned to another world, becomes the Shield Hero, tasked with defending the world from waves of calamity. Betrayed and framed for a crime he didn't commit, he must overcome adversity and grow stronger to clear his name and protect the world."
+        },
+        {
+          "title": "Log Horizon",
+          "image": "log_horizon.jpg",
+          "rating": 7,
+          "episodes": 50
+        },
+        {
+          "title": "Konosuba: God's Blessing on This Wonderful World!",
+          "image": "konosuba.jpg",
+          "rating": 8,
+          "episodes": 20
+        },
+        {
+          "title": "That Time I Got Reincarnated as a Slime",
+          "image": "slime.jpg",
+          "rating": 8,
+          "episodes": 36
+        },
+        {
+          "title": "Grimgar: Ashes and Illusions",
+          "image": "grimgar.jpg",
+          "rating": 7,
+          "episodes": 12
+        },
+        {
+          "title": "Gate: Thus the JSDF Fought There!",
+          "image": "gate.jpg",
+          "rating": 7,
+          "episodes": 24
+        }
+      ]
+    },
+    {
+      "title": "Action",
+      "items": [
+        {
+          "title": "Attack on Titan",
+          "image": "attack_on_titan.jpg",
+          "rating": 9,
+          "episodes": 75
+        },
+        {
+          "title": "One Punch Man",
+          "image": "one_punch_man.jpg",
+          "rating": 8,
+          "episodes": 24
+        },
+        {
+          "title": "My Hero Academia",
+          "image": "my_hero_academia.jpg",
+          "rating": 8,
+          "episodes": 113
+        },
+        {
+          "title": "Fullmetal Alchemist: Brotherhood",
+          "image": "fullmetal_alchemist.jpg",
+          "rating": 9,
+          "episodes": 64
+        },
+        {
+          "title": "Naruto",
+          "image": "naruto.jpg",
+          "rating": 8,
+          "episodes": 220
+        },
+        {
+          "title": "Dragon Ball Z",
+          "image": "dragon_ball_z.jpg",
+          "rating": 8,
+          "episodes": 291
+        },
+        {
+          "title": "Demon Slayer: Kimetsu no Yaiba",
+          "image": "demon_slayer.jpg",
+          "rating": 9,
+          "episodes": 26
+        },
+        {
+          "title": "Black Clover",
+          "image": "black_clover.jpg",
+          "rating": 7,
+          "episodes": 170
+        },
+        {
+          "title": "Hunter x Hunter",
+          "image": "hunter_x_hunter.jpg",
+          "rating": 9,
+          "episodes": 148
+        },
+        {
+          "title": "Fairy Tail",
+          "image": "fairy_tail.jpg",
+          "rating": 7,
+          "episodes": 328
+        }
+      ]
+    },
+    {
+      "title": "Adventure",
+      "items": [
+        {
+          "title": "One Piece",
+          "image": "one_piece.jpg",
+          "rating": 9,
+          "episodes": 1000
+        },
+        {
+          "title": "Adventure Time",
+          "image": "adventure_time.jpg",
+          "rating": 8,
+          "episodes": 283
+        },
+        {
+          "title": "Nanatsu no Taizai (The Seven Deadly Sins)",
+          "image": "seven_deadly_sins.jpg",
+          "rating": 7,
+          "episodes": 95
+        },
+        {
+          "title": "Magi: The Labyrinth of Magic",
+          "image": "magi.jpg",
+          "rating": 8,
+          "episodes": 50
+        },
+        {
+          "title": "Made in Abyss",
+          "image": "made_in_abyss.jpg",
+          "rating": 9,
+          "episodes": 13
+        },
+        {
+          "title": "The Legend of Zelda",
+          "image": "zelda.jpg",
+          "rating": 8,
+          "episodes": 13
+        },
+        {
+          "title": "Digimon Adventure",
+          "image": "digimon.jpg",
+          "rating": 7,
+          "episodes": 54
+        },
+        {
+          "title": "Pokemon",
+          "image": "pokemon.jpg",
+          "rating": 8,
+          "episodes": 1000
+        },
+        {
+          "title": "Fate/Grand Order: Absolute Demonic Front - Babylonia",
+          "image": "fate_babylonia.jpg",
+          "rating": 8,
+          "episodes": 21
+        },
+        {
+          "title": "Gurren Lagann",
+          "image": "gurren_lagann.jpg",
+          "rating": 8,
+          "episodes": 27
+        }
+      ]
+    },
+    {
+      "title": "Mystery",
+      "items": [
+        {
+          "title": "Detective Conan (Case Closed)",
+          "image": "detective_conan.jpg",
+          "rating": 8,
+          "episodes": 1000
+        },
+        {
+          "title": "Death Note",
+          "image": "death_note.jpg",
+          "rating": 9,
+          "episodes": 37
+        },
+        {
+          "title": "Hyouka",
+          "image": "hyouka.jpg",
+          "rating": 8,
+          "episodes": 22
+        },
+        {
+          "title": "Ghost Hunt",
+          "image": "ghost_hunt.jpg",
+          "rating": 7,
+          "episodes": 25
+        },
+        {
+          "title": "The Promised Neverland",
+          "image": "promised_neverland.jpg",
+          "rating": 8,
+          "episodes": 22
+        },
+        {
+          "title": "Erased",
+          "image": "erased.jpg",
+          "rating": 9,
+          "episodes": 12
+        },
+        {
+          "title": "Another",
+          "image": "another.jpg",
+          "rating": 7,
+          "episodes": 12
+        },
+        {
+          "title": "Gosick",
+          "image": "gosick.jpg",
+          "rating": 8,
+          "episodes": 24
+        },
+        {
+          "title": "Psycho-Pass",
+          "image": "psycho_pass.jpg",
+          "rating": 9,
+          "episodes": 44
+        },
+        {
+          "title": "Terror in Resonance",
+          "image": "terror_in_resonance.jpg",
+          "rating": 8,
+          "episodes": 11
+        }
+      ]
+    },
+    {
+      "title": "Drama",
+      "items": [
+        {
+          "title": "Your Lie in April",
+          "image": "your_lie_in_april.jpg",
+          "rating": 9,
+          "episodes": 22
+        },
+        {
+          "title": "Clannad",
+          "image": "clannad.jpg",
+          "rating": 8,
+          "episodes": 46
+        },
+        {
+          "title": "Anohana: The Flower We Saw That Day",
+          "image": "anohana.jpg",
+          "rating": 8,
+          "episodes": 11
+        },
+        {
+          "title": "Violet Evergarden",
+          "image": "violet_evergarden.jpg",
+          "rating": 9,
+          "episodes": 13
+        },
+        {
+          "title": "Angel Beats!",
+          "image": "angel_beats.jpg",
+          "rating": 8,
+          "episodes": 13
+        },
+        {
+          "title": "Toradora!",
+          "image": "toradora.jpg",
+          "rating": 8,
+          "episodes": 25
+        },
+        {
+          "title": "March Comes in Like a Lion",
+          "image": "march_comes_in_like_a_lion.jpg",
+          "rating": 8,
+          "episodes": 44
+        },
+        {
+          "title": "Given",
+          "image": "given.jpg",
+          "rating": 8,
+          "episodes": 11
+        },
+        {
+          "title": "Rascal Does Not Dream of Bunny Girl Senpai",
+          "image": "bunny_girl_senpai.jpg",
+          "rating": 8,
+          "episodes": 13
+        },
+        {
+          "title": "Nana",
+          "image": "nana.jpg",
+          "rating": 8,
+          "episodes": 47
+        }
+      ]
+    }
+  ]
+}

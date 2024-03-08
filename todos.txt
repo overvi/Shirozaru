@@ -1,0 +1,3 @@
+add you may like field for animes
+improve watching page
+fix clerk appearnece

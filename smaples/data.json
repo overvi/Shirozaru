@@ -1,0 +1,416 @@
+[
+  {
+    "title": "Jujutsu Kaisen",
+    "description": "Yuji Itadori, who possesses extraordinary physical strength. His life takes an unexpected turn when he encounters a cursed item and ends up swallowing a cursed object that contains the finger of the demon Ryomen Sukuna. This act binds him to Sukuna, and he finds himself thrust into the world of Curses and Jujutsu Sorcerers.",
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1710212885/logos/jjk-log_oggvqf.svg",
+    "genres": ["Action", "Supernatural", "Fantasy"],
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1711626479/posters/jjk_gkei4z.webp",
+    "rating": 8.7,
+    "episodes": 24,
+    "coverId": "65efc4f6ac8527014866346b",
+
+    "carouselId": "660045e9000a3f48e105be31"
+  },
+  {
+    "title": "One Piece",
+    "description": "Monkey D. Luffy, a young man who gains the properties of rubber after unintentionally eating a Devil Fruit. With his diverse crew of pirates, named the Straw Hat Pirates, Luffy explores the Grand Line in search of the world’s ultimate treasure known as “One Piece” to become the Pirate King.",
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1710213190/logos/One-Piece-Logo_iywzyd.svg",
+    "genres": ["Action", "Adventure", "Comedy"],
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1710307602/posters/one-piece-poster_humgff.webp",
+    "rating": 9.0,
+    "episodes": 1000,
+    "coverId": "65efc4f6ac8527014866346c",
+    "tabId": "65f2a7899876d546fdeee8fa",
+
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710954199/trailer/ONE_PIECE_STAMPEDE_Official_Trailer_zsbpp7.mp4"
+  },
+  {
+    "title": "Solo Leveling",
+    "description": "Set in a world where mysterious portals, known as “Gates,” have emerged, connecting the human world to a realm filled with monsters. To combat these threats, certain individuals have awakened supernatural powers, becoming “Hunters.” The protagonist, Sung Jinwoo, is initially known as the “World’s Weakest Hunter,” but after a near-death experience in a dangerous dungeon, he gains the ability to “level up” his powers, a unique trait that sets him apart from other Hunters.",
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1710314995/logos/solo-logs_g2cgwm.png",
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1710307535/posters/solo-poster_nwyhwd.jpg",
+    "rating": 8.9,
+    "episodes": 180,
+
+    "coverId": "65efc4f6ac8527014866346e"
+  },
+  {
+    "title": "Mashle: Magic and Muscles",
+    "description": "Set in a world where magic is everything, Mash Burnedead is a young man without any magical abilities. To protect his peaceful life with his adoptive father, Mash must become a “Divine Visionary,” a title given to exceptional students from the Easton Magic Academy. Despite having no magic, Mash enrolls in the academy, determined to survive and prove that muscles can beat magic1.",
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1710187862/logos/mashle_pbov6s.svg",
+    "genres": ["Action", "Comedy", "Fantasy"],
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1711664383/posters/u7KEJvDXSGYnzq3BNs3jQwBe1VF_udmipw.jpg",
+    "rating": 8.5,
+    "episodes": 50,
+
+    "coverId": "65efc4f6ac85270148663470"
+  },
+  {
+    "title": "The Apothecary Diaries",
+    "description": "Maomao, a clever and resourceful apothecary’s daughter, finds herself in the imperial court’s inner palace, serving as a low-ranking maid after being sold into servitude. Her extensive knowledge of medicine and poisons becomes an invaluable asset when she begins to solve mysterious occurrences affecting the imperial family.",
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1710187872/logos/apoth-logo_er6pgh.png",
+    "genres": ["Drama", "Mystery", "Historical"],
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1711529021/posters/apothecary.jpg",
+    "rating": 8.3,
+    "episodes": 12,
+
+    "coverId": "65efc4f6ac85270148663471"
+  },
+  {
+    "title": "Chainsaw Man",
+    "description": "Denji, is a young man trapped in poverty who works as a Devil Hunter with his canine companion and Chainsaw Devil, Pochita. After a betrayal leads to his death, Denji merges with Pochita and is reborn as a devil-human hybrid, gaining the ability to transform parts of his body into chainsaws. He then joins the Public Safety Devil Hunters to fight against Devils threatening Japan",
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1710214633/logos/chainsaw-man.svg",
+    "genres": ["Action", "Supernatural", "Horror"],
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1711528983/posters/chain_vuqy7m.jpg",
+    "rating": 8.8,
+    "episodes": 24,
+
+    "coverId": "65efc4f7ac85270148663479"
+  },
+  {
+    "title": "Spy × Family",
+    "description": "“Spy × Family” is set in a fictional world where two rival nations, Westalis and Ostania, are engaged in a cold war. The story revolves around a Westalian spy codenamed “Twilight,” whose mission is to prevent the outbreak of war between the two nations. To do this, he must get close to Donovan Desmond, the leader of the National Unity Party within Ostania. Desmond is a reclusive figure who only appears in public at his son’s prestigious school, Eden Academy.",
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1710187853/logos/spy_llsicm.svg",
+    "genres": ["Action", "Comedy", "Mystery"],
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1711529021/posters/spy.jpg",
+    "rating": 9.2,
+    "episodes": 12,
+
+    "coverId": "65efc4f8ac8527014866347a"
+  },
+  {
+    "title": "Frieren: Beyond Journey's End",
+    "description": "The elven mage Frieren, who was part of a heroic party that defeated the Demon King. Unlike her human companions, Frieren has a much longer lifespan. After their victory, she continues her journey alone, seeking magical knowledge. As time passes, she realizes the depth of her bond with her former comrades and begins to understand the human experience of time and connection.",
+    "logo": "https://res.cloudinary.com/duglkyccw/image/upload/v1710187763/logos/frieren-logo_dgftys.webp",
+    "genres": ["Fantasy", "Adventure", "Drama"],
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1711529034/posters/Poster-sousou-no-frieren-1-scaled_bkg9kv.jpg",
+    "rating": 8.6,
+    "episodes": 12,
+
+    "coverId": "65efc4f9ac8527014866347d"
+  },
+
+  {
+    "title": "My Hero Academia",
+    "description": "My Hero Academia follows the story of Izuku Midoriya, a boy born without superpowers in a world where they are common, as he strives to become a hero.",
+    "genres": ["Action", "Adventure", "Comedy"],
+    "episodes": 104,
+    "rating": 8.4,
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1710307574/posters/hero-poster_zwptqf.webp",
+    "carouselId": "660045e9000a3f48e105be31",
+    "tabId": "65f2a78a9876d546fdeee900",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710953351/trailer/My_Hero_Academia_Season_7_-_Official_Trailer_j6zmrl.mp4"
+  },
+  {
+    "title": "Classroom of the Elite",
+    "description": "Classroom of the Elite is set in a prestigious high school where students are trained to become future leaders. The story follows Kiyotaka Ayanokoji and his classmates as they navigate the complexities of the school's social hierarchy and hidden agendas.",
+    "genres": ["Psychological", "Slice of Life", "Drama"],
+    "episodes": 12,
+    "rating": 7.9,
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1710307550/posters/classroom-poster_cgqiab.webp",
+    "carouselId": "660045e9000a3f48e105be31"
+  },
+  {
+    "title": "Dandadan",
+    "description": "Dandadan follows the misadventures of a group of eccentric individuals as they navigate the chaos of everyday life in a quirky town.",
+    "genres": ["Comedy", "Slice of Life"],
+    "episodes": 24,
+    "rating": 7.5,
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1710307557/posters/dandadan-poster_d7sqjm.jpg",
+    "carouselId": "660045e9000a3f48e105be31"
+  },
+
+  {
+    "title": "Mushoku Tensei",
+    "description": "Mushoku Tensei follows the story of Rudeus Greyrat, a man who is reincarnated into a fantasy world as a baby. With his past memories intact, he resolves to live a fulfilling life and become the most powerful mage.",
+    "genres": ["Adventure", "Fantasy", "Slice of Life"],
+    "episodes": 23,
+    "rating": 8.2,
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1710307540/posters/mushoku-poster_mk7b4f.webp",
+    "carouselId": "660045e9000a3f48e105be31"
+  },
+  {
+    "title": "Kaiju No. 8",
+    "description": "Kaiju No. 8 is set in a world where giant monsters known as kaiju threaten humanity. The story follows Kafka Hibino, a member of the Defense Force who gains the ability to transform into a kaiju. As Kafka grapples with his newfound power, he must protect humanity from other kaiju threats.",
+    "genres": ["Action", "Sci-Fi", "Supernatural"],
+    "episodes": 20,
+    "rating": 8.5,
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1710307563/posters/kaiju-poster_srbjxh.jpg",
+    "carouselId": "660045e9000a3f48e105be31"
+  },
+  {
+    "title": "Dragon Ball Daima",
+    "description": "Dragon Ball Daima follows the adventures of Goku and his friends as they search for the Dragon Balls, magical orbs that can grant any wish. Along the way, they encounter powerful foes and embark on epic battles to save the world.",
+    "genres": ["Action", "Adventure", "Comedy"],
+    "episodes": 20,
+    "rating": 8.8,
+    "poster": "https://res.cloudinary.com/duglkyccw/image/upload/v1710307542/posters/dragon-poster_axva6k.jpg",
+    "carouselId": "660045e9000a3f48e105be31"
+  },
+  {
+    "title": "Re:Zero - Starting Life in Another World",
+    "rating": 8,
+    "episodes": 25,
+    "tabId": "65f2a7799876d546fdeee8c0",
+    "description": "Subaru Natsuki is summoned to another world where he discovers he has the power to rewind time upon death. He must navigate this dangerous world, facing challenges and forging bonds with others to uncover the mysteries surrounding his ability and the world he finds himself in.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710957757/trailer/Re_Zero_Season_3_-_Official_Trailer_dtvwko.mp4"
+  },
+  {
+    "title": "Sword Art Online",
+    "rating": 7,
+    "episodes": 25,
+    "tabId": "65f2a7799876d546fdeee8c0",
+    "description": "In the near future, virtual reality gaming takes a dark turn when players become trapped in the game world of Sword Art Online. Kirito, one of the players, must fight his way through various challenges to escape the game and save himself and his friends.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710957486/trailer/Sword_Art_Online_-_Official_Trailer_aangij.mp4"
+  },
+  {
+    "title": "The Rising of the Shield Hero",
+    "rating": 8,
+    "episodes": 25,
+    "tabId": "65f2a7799876d546fdeee8c0",
+    "description": "Naofumi Iwatani, a young man summoned to another world, becomes the Shield Hero, tasked with defending the world from waves of calamity. Betrayed and framed for a crime he didn't commit, he must overcome adversity and grow stronger to clear his name and protect the world.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710947164/trailer/The_Rising_of_the_Shield_Hero_Season_3_OFFICIAL_TRAILER_mj4jzc.mp4"
+  },
+  {
+    "title": "Log Horizon",
+    "rating": 7,
+    "episodes": 50,
+    "tabId": "65f2a7799876d546fdeee8c0",
+    "description": "After the release of a popular MMORPG, thousands of players find themselves trapped inside the game world of Elder Tale. Shiroe, along with his friends, must navigate this new reality, forming alliances and solving mysteries to survive and find a way back to the real world.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710947558/trailer/Log_Horizon_Season_3_-_Log_Horizon_Entaku_Houkai_-_Trailer_HD_jxdgpd.mp4"
+  },
+  {
+    "title": "Konosuba: God's Blessing on This Wonderful World!",
+    "rating": 8,
+    "episodes": 20,
+    "tabId": "65f2a7799876d546fdeee8c0",
+    "description": "Kazuma Satou, after dying a laughable death, is given the chance to reincarnate in a fantasy world with a goddess companion. Together with his quirky party, he embarks on comedic adventures filled with mishaps and challenges, all while trying to live a comfortable life.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710948028/trailer/KONOSUBA_Season_3_-_Official_Trailer_2_npeprn.mp4"
+  },
+  {
+    "title": "That Time I Got Reincarnated as a Slime",
+    "rating": 8,
+    "episodes": 36,
+    "tabId": "65f2a7799876d546fdeee8c0",
+    "carouselId": "660045e9000a3f48e105be31",
+
+    "description": "Satoru Mikami, an average office worker, is reincarnated in a fantasy world as a powerful slime monster. With his newfound abilities and allies, he embarks on a journey to build a peaceful nation, encountering various creatures and challenges along the way.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710948110/trailer/That_Time_I_Got_Reincarnated_as_a_Slime_Season_3_-_Official_Trailer_pkubmy.mp4"
+  },
+  {
+    "title": "Grimgar: Ashes and Illusions",
+    "rating": 7,
+    "episodes": 12,
+    "tabId": "65f2a7799876d546fdeee8c0",
+    "description": "A group of strangers awaken in the fantasy world of Grimgar with no memory of their past lives. Forced to adapt to their new environment, they join together as a party of adventurers, facing the harsh reality of survival and the challenges of battling monsters.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710946885/trailer/Grimgar_Ashes_and_Illusions_-_Official_Trailer_g53i8z.mp4"
+  },
+  {
+    "title": "Gate: Thus the JSDF Fought There!",
+    "rating": 7,
+    "episodes": 24,
+    "tabId": "65f2a7799876d546fdeee8c0",
+    "description": "When a mysterious gate opens in Tokyo, connecting Earth to a fantasy world, the Japanese Self-Defense Force is sent to investigate. As tensions rise between the two worlds, the JSDF must navigate political intrigue and battle against formidable foes to protect their homeland.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710950042/trailer/GATE_Official_Trailer_aitzme.mp4"
+  },
+  {
+    "title": "Your Lie in April",
+    "rating": 9,
+    "episodes": 22,
+    "tabId": "65f2a7899876d546fdeee8f7",
+    "description": "Kousei Arima, a former piano prodigy who lost his ability to hear his own playing after a traumatic event, meets the free-spirited violinist Kaori Miyazono. Through music, they inspire each other to confront their pasts and chase after their dreams, despite the obstacles in their path.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710949793/trailer/Your_lie_in_April_Trailer_mcpmjy.mp4"
+  },
+  {
+    "title": "Clannad",
+    "rating": 8,
+    "episodes": 46,
+    "tabId": "65f2a7899876d546fdeee8f7",
+    "description": "Tomoya Okazaki, a delinquent high school student, meets Nagisa Furukawa, a shy girl repeating her final year due to illness. Together, they form deep bonds with their classmates, facing life's challenges and discovering the importance of friendship, family, and love.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710949704/trailer/Clannad_After_Story_Official_Trailer_xv1peh.mp4"
+  },
+  {
+    "title": "Anohana: The Flower We Saw That Day",
+    "rating": 8,
+    "episodes": 11,
+    "tabId": "65f2a7899876d546fdeee8f7",
+    "description": "Years after the tragic death of their childhood friend Menma, a group of friends drift apart. When Menma's ghost appears before Jinta, he is tasked with fulfilling her wish, reuniting the group and confronting the unresolved emotions that have haunted them for years.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710948657/trailer/Anohana_The_Movie_The_Flower_We_Saw_That_Day_Official_US_Trailer_2014_-_Anime_Movie_HD_hzyxdn.mp4"
+  },
+  {
+    "title": "Violet Evergarden",
+    "rating": 9,
+    "episodes": 13,
+    "tabId": "65f2a7899876d546fdeee8f7",
+    "description": "Violet Evergarden, a former child soldier, begins working as an Auto Memory Doll, transcribing people's thoughts and feelings into letters. Through her encounters with clients and her own journey of self-discovery, she learns the true meaning of love, loss, and the power of words.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710949318/trailer/Violet_Evergarden_the_Movie_Official_Trailer_Netflix_Anime_gj8vwh.mp4"
+  },
+  {
+    "title": "Death Note",
+    "rating": 9,
+    "episodes": 37,
+    "tabId": "65f2a7899876d546fdeee8fb",
+    "description": "Light Yagami, a high school student bored with life, discovers a mysterious notebook called the Death Note. With the power to kill anyone whose name he writes in it, Light sets out to cleanse the world of criminals and become the god of a new utopia, facing off against the enigmatic detective L.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710956896/trailer/Death_Note_OFFICIAL_TRAILER_taywci.mp4"
+  },
+  {
+    "title": "Attack on Titan",
+    "rating": 9,
+    "episodes": 75,
+    "tabId": "65f2a78a9876d546fdeee900",
+    "description": "In a world where humanity is on the brink of extinction due to giant humanoid creatures known as Titans, Eren Yeager and his friends join the military to fight back. As they uncover the mysteries of the Titans and their own history, they must confront the harsh realities of war and sacrifice.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710952520/trailer/Attack_on_Titan_Season_4_Final_Season_Part_4_-_Official_Trailer_2_bn3pwc.mp4"
+  },
+  {
+    "title": "Nanatsu no Taizai (The Seven Deadly Sins)",
+    "rating": 7,
+    "episodes": 95,
+    "tabId": "65f2a7899876d546fdeee8fa",
+    "description": "The Seven Deadly Sins, a group of legendary knights, are disbanded after being accused of plotting to overthrow the kingdom. Years later, Princess Elizabeth seeks their help to save the kingdom from tyrannical rule, embarking on a quest to reunite the Sins and restore peace.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710954842/trailer/The_Seven_Deadly_Sins_Four_Knights_of_the_Apocalypse_-_Official_Main_Trailer_2_h1v6aj.mp4"
+  },
+  {
+    "title": "Hyouka",
+    "rating": 8,
+    "episodes": 22,
+    "tabId": "65f2a7899876d546fdeee8fb",
+    "description": "Oreki Houtarou, a high school student who conserves his energy for only the essential tasks, is drawn into the world of mysteries when he joins the Classic Literature Club. Alongside his curious classmates, he unravels enigmatic puzzles and uncovers the secrets hidden within their school.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710957032/trailer/Hyouka_Part_1_-_Trailer_dvdhcw.mp4"
+  },
+  {
+    "title": "Toradora!",
+    "rating": 8,
+    "episodes": 25,
+    "tabId": "65f2a7899876d546fdeee8f7",
+    "description": "Ryuuji Takasu, a gentle high school student with a menacing face, forms an unlikely alliance with the feisty Taiga Aisaka. As they navigate the complexities of high school life and their growing feelings for each other, they discover the true meaning of love and friendship.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710951698/trailer/Toradora_-_Official_English_Trailer_mfrgtc.mp4"
+  },
+  {
+    "title": "One Punch Man",
+    "rating": 8,
+    "episodes": 24,
+    "tabId": "65f2a78a9876d546fdeee900",
+    "description": "Saitama, a seemingly average man, becomes a hero for fun after training so hard that he loses all his hair. Despite his overwhelming strength, he struggles with the mundanity of being an unbeatable hero, longing for a worthy opponent to challenge him and bring excitement back into his life.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710952682/trailer/One_Punch_Man_Season_3_-_Official_Trailer_English_Sub_ywtggv.mp4"
+  },
+  {
+    "title": "Magi: The Labyrinth of Magic",
+    "rating": 8,
+    "episodes": 50,
+    "tabId": "65f2a7899876d546fdeee8fa",
+    "description": "In \"Magi: The Labyrinth of Magic,\" young adventurers Aladdin, Alibaba, and Morgiana traverse a fantastical world filled with magic, dungeons, and political intrigue. As they uncover the mysteries of their destinies and the true nature of the world's magic, they form powerful alliances and confront formidable enemies. With each encounter, they learn valuable lessons about friendship, loyalty, and the importance of fighting for what they believe in.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710954756/trailer/Magi_The_Labyrinth_of_Magic_-_Official_Trailer_tfpoye.mp4"
+  },
+  {
+    "title": "Ghost Hunt",
+    "rating": 7,
+    "episodes": 25,
+    "tabId": "65f2a7899876d546fdeee8fb",
+    "description": "\"Ghost Hunt\" follows the adventures of Mai Taniyama, a high school student who becomes involved with a paranormal investigation team led by the enigmatic Kazuya Shibuya. Together, they tackle various cases involving ghosts, spirits, and supernatural phenomena, delving into haunted locations and uncovering dark mysteries. As Mai and the team confront terrifying entities and unravel the truth behind each haunting, they form deep bonds and discover the depths of their courage and resilience in the face of the unknown.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710955618/trailer/Ghost_Hunt_Anime_-_Trailer_h32906.mp4"
+  },
+  {
+    "title": "My Hero Academia",
+    "rating": 8,
+    "episodes": 113,
+    "tabId": "65f2a78a9876d546fdeee900",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710953351/trailer/My_Hero_Academia_Season_7_-_Official_Trailer_j6zmrl.mp4"
+  },
+  {
+    "title": "The Promised Neverland",
+    "rating": 8,
+    "episodes": 22,
+    "tabId": "65f2a7899876d546fdeee8fb",
+    "description": "Emma, Norman, and Ray live peaceful lives in an orphanage run by a kind caretaker, unaware of the dark secret lurking beneath their idyllic existence. When they discover the horrifying truth about their world, they must plot their escape while evading the sinister forces that seek to control them.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710955944/trailer/The_Promised_Neverland_Trailer_1_k4qh4k.mp4"
+  },
+  {
+    "title": "Given",
+    "rating": 8,
+    "episodes": 11,
+    "tabId": "65f2a7899876d546fdeee8f7",
+    "description": " follows the emotional journey of four high school students brought together by their love for music. As they navigate the complexities of adolescence and personal relationships, they find solace, healing, and self-discovery through their shared passion for creating music. Through moments of joy, heartache, and growth, \"Given\" explores themes of love, loss, and the transformative power of artistic expression.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710950417/trailer/Given_The_Movie_OFFICIAL_TRAILER_himgdc.mp4"
+  },
+  {
+    "title": "Fullmetal Alchemist: Brotherhood",
+    "rating": 9,
+    "episodes": 64,
+    "tabId": "65f2a78a9876d546fdeee900",
+    "description": "In \"Fullmetal Alchemist: Brotherhood,\" brothers Edward and Alphonse Elric embark on a quest to restore their bodies after a failed alchemical experiment leaves Edward missing limbs and Alphonse's soul bound to a suit of armor. Their journey takes them through a world where alchemy is both a science and a mystical art, as they uncover dark conspiracies and confront the consequences of their past actions. Fueled by determination and guided by their unwavering bond, the Elric brothers strive to uncover the secrets of the Philosopher's Stone and find redemption amidst the chaos of war and betrayal.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710953015/trailer/Fullmetal_Alchemist_Brotherhood_Trailer_-_English_Dub_gswwhb.mp4"
+  },
+  {
+    "title": "Erased",
+    "rating": 9,
+    "episodes": 12,
+    "tabId": "65f2a7899876d546fdeee8fb",
+    "description": "Edward and Alphonse Elric, brothers skilled in the art of alchemy, seek the Philosopher's Stone to restore their bodies after a failed alchemical experiment. Their journey leads them to uncover dark secrets, confront their past mistakes, and ultimately question the true nature of alchemy.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710955994/trailer/Erased_Volume_1_-_Official_Trailer_sjxkvp.mp4"
+  },
+  {
+    "title": "Rascal Does Not Dream of Bunny Girl Senpai",
+    "rating": 8,
+    "episodes": 13,
+    "tabId": "65f2a7899876d546fdeee8f7",
+    "description": " Sakuta Azusagawa encounters Mai Sakurajima, a former child actress who inexplicably appears in a bunny girl costume and seems invisible to everyone else. As Sakuta investigates this phenomenon, he discovers that Mai is suffering from a mysterious affliction known as \"Adolescent Syndrome,\" which manifests as supernatural phenomena related to the struggles of adolescence. Through their unique bond and the challenges they face together, Sakuta and Mai navigate the complexities of youth and relationships, finding solace and understanding in each other's company.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710950665/trailer/Rascal_Does_Not_Dream_of_Bunny_Girl_Senpai_Trailer_vkb7tg.mp4"
+  },
+  {
+    "title": "Naruto",
+    "rating": 8,
+    "episodes": 720,
+    "tabId": "65f2a78a9876d546fdeee900",
+    "description": "In the world of \"Naruto,\" a young ninja named Naruto Uzumaki embarks on a journey to become the greatest ninja and earn the title of Hokage, the leader of his village. Along the way, Naruto faces numerous trials and battles against powerful adversaries while forging deep bonds with his friends and allies. Fueled by determination and a desire to protect those he cares about, Naruto's adventures lead him to uncover the secrets of his past and ultimately fulfill his destiny as a hero.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710952641/trailer/Official_English_Trailer_Naruto_Set_1_VIZ_aaeph5.mp4"
+  },
+  {
+    "title": "Dragon Ball Z",
+    "rating": 8,
+    "episodes": 291,
+    "tabId": "65f2a78a9876d546fdeee900",
+    "description": "Dragon Ball Z\" follows the adventures of Goku and his friends as they defend Earth from powerful villains and embark on epic quests to protect the universe. With the ability to harness energy known as \"ki\" and transform into mighty Super Saiyans, Goku and his allies face increasingly formidable foes, including the tyrannical Frieza, the unstoppable Cell, and the sinister Majin Buu. Through intense battles and training, they push the limits of their strength and unlock new levels of power, embodying the spirit of perseverance and heroism in their quest for peace.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710950978/trailer/Dragon_Ball_DAIMA_Teaser_Trailer_Fall_2024_acdpgi.mp4"
+  },
+  {
+    "title": "Gosick",
+    "rating": 8,
+    "episodes": 24,
+    "tabId": "65f2a7899876d546fdeee8fb",
+    "description": "Ritsuka Uenoyama, a talented guitarist, finds himself drawn to Mafuyu Sato, a quiet boy with a troubled past. Through their shared love of music, they form a bond that transcends words, healing each other's wounds and discovering the transformative power of love and creativity.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710956394/trailer/Gosick_Fanmade_Trailer_j2qvjl.mp4"
+  },
+  {
+    "title": "Demon Slayer: Kimetsu no Yaiba",
+    "rating": 9,
+    "episodes": 26,
+    "tabId": "65f2a78a9876d546fdeee900",
+    "description": "In \"Demon Slayer: Kimetsu no Yaiba,\" Tanjiro Kamado embarks on a perilous journey to avenge his family and cure his sister, Nezuko, who has been transformed into a demon. Armed with his unwavering determination and the teachings of the Demon Slayer Corps, Tanjiro battles terrifying demons while seeking a way to restore Nezuko's humanity. Alongside his companions, he confronts his own demons and strives to protect humanity from the dark forces threatening to engulf the world.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710950603/trailer/Demon_Slayer_Kimetsu_no_Yaiba_Hashira_Training_Arc_OFFICIAL_TRAILER_uqjblb.mp4"
+  },
+  {
+    "title": "Fate/Grand Order: Absolute Demonic Front - Babylonia",
+    "rating": 8,
+    "episodes": 21,
+    "tabId": "65f2a7899876d546fdeee8fa",
+    "description": "In \"Fate/Grand Order,\" players assume the role of a Master tasked with traveling through time to save humanity from impending doom. Accompanied by Heroic Spirits summoned from various historical eras and mythologies, players embark on epic quests to restore the fabric of time and prevent the extinction of mankind. With strategic gameplay, captivating storytelling, and stunning visuals, \"Fate/Grand Order\" offers an immersive experience where players must navigate through complex battles and make crucial decisions to alter the course of history.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710954396/trailer/Fate_Grand_Order_Absolute_Demonic_Front_Babylonia_Trailer_1_hqoqyt.mp4"
+  },
+  {
+    "title": "Psycho-Pass",
+    "rating": 9,
+    "episodes": 44,
+    "tabId": "65f2a7899876d546fdeee8fb",
+    "description": "In \"Psycho-Pass,\" set in a dystopian future, society is governed by the Sibyl System, which can detect an individual's mental state and propensity for crime using a device called the Psycho-Pass. Akane Tsunemori, a young inspector, navigates the complexities of enforcing justice in a world where morality is determined by a computer algorithm, confronting ethical dilemmas and questioning the nature of justice itself. As she delves deeper into the mysteries surrounding the Sibyl System and the true nature of humanity, Akane must grapple with the consequences of her actions and the darkness lurking within society.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710956354/trailer/PSYCHO-PASS_Providence_Trailer_1_2023_bcd2qr.mp4"
+  },
+  {
+    "title": "Terror in Resonance",
+    "rating": 8,
+    "episodes": 11,
+    "tabId": "65f2a7899876d546fdeee8fb",
+    "description": "In \"Terror in Resonance,\" two enigmatic teenagers known only as Nine and Twelve orchestrate a series of terrorist attacks on Tokyo, leaving cryptic clues in their wake. As the authorities struggle to apprehend them, a game of cat and mouse ensues between the terrorists and a determined detective named Shibazaki. Amidst the chaos and intrigue, secrets from the past are unearthed, leading to a dramatic showdown that challenges the notions of justice, morality, and the power of redemption.",
+    "trailer": "https://res.cloudinary.com/duglkyccw/video/upload/v1710954630/trailer/Terror_In_Resonance_-_Official_Trailer_vusv14.mp4"
+  }
+]

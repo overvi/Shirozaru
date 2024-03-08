@@ -1,0 +1,24 @@
+{
+  "title": "https://res.cloudinary.com/duglkyccw/image/upload/v1711350956/logos/logo_advdin.png",
+  "description": "Rentt Faina, a seasoned monster hunter, has spent the last decade battling slimes and goblins for meager coins. However, his luck takes a dark turn when he encounters an uncharted path that leads to his demise at the jaws of a legendary dragon. But death is not the end for Rentt—he awakens as an undead bag of bones! Determined to achieve Existential Evolution and rejoin the land of the living, Rentt embarks on a mystical journey.",
+  "genre": ["Adventure", "Fantasy"],
+  "average_rating": 4.9,
+  "number_of_reviews": 305,
+  "streaming_platforms": ["Crunchyroll", "Netflix"],
+  "main_characters": [
+    {
+      "name": "Rentt Faina",
+      "description": "The undead adventurer who seeks to regain his humanity."
+    },
+    {
+      "name": "Legendary Dragon",
+      "description": "The creature responsible for Rentt’s transformation into an undead."
+    }
+  ],
+  "unique_twist": "Combines traditional fantasy elements with an unconventional twist—following an undead protagonist on his quest for self-discovery.",
+  "recommendation": "If you enjoy fantasy adventures with a fresh perspective, give ‘The Unwanted Undead Adventurer’ a watch!",
+  "banners": {
+    "desktop": "https://res.cloudinary.com/duglkyccw/image/upload/v1711349880/samples/00efabeb5261492466a949b6dc0e9496df68080256bcaab34b8458991fcbbfa8._SX1080_FMpng__mqg34k.png",
+    "mobile": "https://res.cloudinary.com/duglkyccw/image/upload/v1711343014/samples/MV5BNzNkOWM1YmYtYmRmMC00ZWNkLWI0ZWYtMzBlOWNkNGI2YjQ2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1__fdstge.jpg"
+  }
+}
