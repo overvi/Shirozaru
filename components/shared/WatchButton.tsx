@@ -2,18 +2,19 @@
 
 import { Link as L } from "@chakra-ui/next-js";
 import { Button, ButtonProps } from "@chakra-ui/react";
-import React, { ReactNode } from "react";
-import { IoPlay, IoWatch } from "react-icons/io5";
+import { ReactNode } from "react";
+import { IoPlay } from "react-icons/io5";
 
 interface Props {
   href: string;
   children: ReactNode;
+  className?: string;
 }
 
-const Link = ({ href, children }: Props) => {
+const Link = ({ href, children, className }: Props) => {
   return (
     <Button
-      alignSelf={{ base: "center", md: "start" }}
+      className={className}
       as={L}
       w="fit-content"
       px={8}

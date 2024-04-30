@@ -45,7 +45,9 @@ const SearchResults = ({ res }: { res: Anime[] }) => {
                     eopisodes {anime?.episoden}
                   </Badge>
                 </Box>
-                <Link href={anime.id}>Watch S1 EP1</Link>
+                <Link className="self-center xs:self-start" href={anime.id}>
+                  Watch S1 EP1
+                </Link>
               </Flex>
             </Flex>
             <Divider />
